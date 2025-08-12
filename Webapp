@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Weiterbildung • Web V2</title>
+  <style>
+    :root{--primary:#2563eb;--bg:#f8fafc;--card:#ffffff;--muted:#64748b}
+    html,body{margin:0;padding:0;background:var(--bg);font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,"Helvetica Neue",Arial}
+    .container{max-width:1200px;margin:0 auto;padding:16px}
+    header{position:sticky;top:0;background:rgba(255,255,255,.8);backdrop-filter:blur(8px);border-bottom:1px solid #e2e8f0;z-index:50}
+    .row{display:flex;gap:12px;align-items:center}
+    .grow{flex:1}
+    .btn{border:1px solid #cbd5e1;background:#fff;border-radius:10px;padding:8px 12px;cursor:pointer}
+    .btn.primary{background:var(--primary);border-color:var(--primary);color:#fff}
+    .btn.ghost{background:#f1f5f9}
+    .pill{padding:4px 8px;border-radius:999px;background:#eef2ff;color:#4338ca;font-size:12px}
+    .grid{display:grid;grid-template-columns:1fr;gap:16px}
+    @media (min-width: 900px){.grid{grid-template-columns:280px 1fr}}
+    .card{background:var(--card);border:1px solid #e2e8f0;border-radius:16px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+    .card .body{padding:16px}
+    .list{display:flex;flex-direction:column;gap:8px}
+    .sidebar .cat{padding:10px 12px;border-radius:8px;border:1px solid #e2e8f0;background:#fff;text-align:left}
+    .sidebar .cat.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+    .progress{height:8px;background:#e2e8f0;border-radius:999px;overflow:hidden}
+    .bar{height:100%;background:var(--primary)}
+    .muted{color:var(--muted)}
+    .small{font-size:12px}
+    .success{background:#10b981;color:#fff}
+    .notice{background:#fef3c7;color:#92400e}
+    .banner{padding:8px 12px}
+    .chapter-grid{display:grid;grid-template-columns:1fr;gap:14px}
+    @media (min-width: 700px){.chapter-grid{grid-template-columns:1fr 1fr}}
+    .link{color:var(--primary);text-decoration:none}
+    .detail .header{font-weight:600;margin:16px 0 8px}
+    .task{display:flex;gap:10px;align-items:flex-start}
+    .task.done span{text-decoration:line-through;color:#94a3b8}
+    .overlay{position:fixed;inset:0;background:rgba(15,23,42,.55);display:flex;align-items:center;justify-content:center;z-index:60}
+    .modal{width:min(760px,92vw);background:#fff;border-radius:16px;border:1px solid #e2e8f0}
+    .modal .head{display:flex;gap:12px;align-items:center;padding:12px 16px;border-bottom:1px solid #e2e8f0}
+    .modal .content{padding:16px}
+    input[type="text"], input[type="date"], select{border:1px solid #cbd5e1;border-radius:8px;padding:8px 10px;width:100%}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container row" style="padding:10px 16px;gap:16px">
+      <div style="font-weight:600">Weiterbildung • Instandhaltung</div>
+      <div class="grow">
+        <input id="search" type="text" placeholder="Schnellsuche Kategorie… (z. B. SPS, IAI, Kamera)" />
+      </div>
+      <div class="row small">
+        <label>Level:&nbsp;</label>
+        <select id="level">
+          <option value="1">L1</option>
+          <option value="2">L2</option>
+          <option value="3">L3</option>
+        </select>
+        <button class="btn" id="btnImport" title="Import (Alt+I)">Import</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="banner"></div>
+
+  <main class="container grid" id="main">
+    <aside class="card sidebar">
+      <div class="body">
+        <div class="small muted" style="margin-bottom:8px">Kategorien</div>
+        <div id="catList" class="list"></div>
+      </div>
+    </aside>
+
+    <section class="card">
+      <div class="body">
+        <div class="row" style="justify-content:space-between; margin-bottom:8px">
+          <h2 id="catTitle" style="margin:0">Kapitel</h2>
+          <div id="catCount" class="small muted"></div>
+        </div>
+        <div id="chapters" class="chapter-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Detail -->
+  <section class="container detail" id="detail" style="display:none;padding-bottom:32px">
+    <button class="btn" id="back">← Zurück</button>
+    <h2 id="dTitle"></h2>
+    <div class="row" style="margin:12px 0; gap:16px; align-items:stretch; flex-wrap:wrap">
+      <div class="card" style="flex:1 1 260px"><div class="body">
+        <div class="small muted">Fortschritt</div>
+        <div class="progress"><div id="dBar" class="bar" style="width:0%"></div></div>
+        <div id="dProg" class="small" style="margin-top:6px"></div>
+      </div></div>
+      <div class="card" style="flex:1 1 260px"><div class="body">
+        <div class="small muted">Fälligkeitsdatum</div>
+        <input type="date" id="dDue" />
+        <div class="small muted" style="margin-top:6px">Bitte gemeinsam mit dem Vorgesetzten festlegen.</div>
+      </div></div>
+      <div class="card" style="flex:1 1 260px"><div class="body">
+        <div class="small muted">Rezertifizierung</div>
+        <div id="dRe" class="small">Noch nicht abgeschlossen.</div>
+      </div></div>
+    </div>
+    <div class="card"><div class="body">
+      <div class="small muted" style="margin-bottom:8px">Lerneinheiten</div>
+      <div id="dItems" class="list"></div>
+    </div></div>
+  </section>
+
+  <!-- Import-Modal -->
+  <div id="importer" class="overlay" style="display:none">
+    <div class="modal">
+      <div class="head"><strong>Daten importieren</strong><span class="grow"></span><button class="btn ghost" id="impClose">Schließen</button></div>
+      <div class="content">
+        <div style="margin-bottom:12px">
+          <div class="small muted">JSON-Datei (Format: { chapters: [...] })</div>
+          <input type="file" id="impFile" accept="application/json" />
+        </div>
+        <div>
+          <div class="small muted">Oder per URL laden</div>
+          <div class="row">
+            <input id="impUrl" type="text" placeholder="https://.../katalog.json" />
+            <button class="btn" id="impLoad">Laden</button>
+          </div>
+          <div class="small muted" style="margin-top:6px">Tipp: dauerhaft per Query <code>?catalog=URL</code> binden.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ------- Config -------
+    const DEFAULT_URL = "https://raw.githubusercontent.com/DominikKuhnen/Web-Maint/main/katalog_web_v2.json";
+
+    // ------- State -------
+    let CHAPTERS = []; // gesamte Kapitel-Liste
+    let ACTIVE_CAT = "";
+    let USER_LEVEL = 1;
+    let CURRENT = null; // aktuelles Kapitel für Detail
+
+    // Persistenz Keys
+    const K_DONE = "wb_done";       // {"code::idx": {done:true, ts:"ISO"}}
+    const K_DUE  = "wb_due";        // {"code": "YYYY-MM-DD"}
+
+    const Done = JSON.parse(localStorage.getItem(K_DONE) || "{}");
+    const Due  = JSON.parse(localStorage.getItem(K_DUE)  || "{}");
+
+    // ------- Helpers -------
+    const qs = (s,p=document)=>p.querySelector(s);
+    const qsa = (s,p=document)=>Array.from(p.querySelectorAll(s));
+    const natCmp = (a,b)=> String(a).localeCompare(String(b), "de", {numeric:true});
+    const addMonths = (d, m)=>{const x=new Date(d); x.setMonth(x.getMonth()+m); return x};
+    const banner = (msg, cls="success")=>{ const el = document.getElementById("banner"); el.innerHTML = `<div class="banner ${cls}">${msg}</div>`; setTimeout(()=> el.innerHTML = "", 5000); };
+
+    const chapterProgress = (chapter)=>{
+      const tasks = (chapter.items||[]).filter(i=>i.type==='task');
+      const total = tasks.length;
+      let done = 0;
+      tasks.forEach((t, idx)=>{ if (Done[`${chapter.code}::${idx}`]?.done) done++; });
+      const percent = total? Math.round(done/total*100) : 0;
+      return {total, done, percent};
+    };
+
+    const uniqueCategories = (chapters)=>{
+      const seen=new Set(), arr=[];
+      chapters.forEach(ch=>{ const c = ch.category || 'Allgemein'; if(!seen.has(c)){seen.add(c); arr.push(c);} });
+      return arr;
+    };
+
+    function saveDone(){ localStorage.setItem(K_DONE, JSON.stringify(Done)); }
+    function saveDue(){ localStorage.setItem(K_DUE, JSON.stringify(Due)); }
+
+    // ------- Load -------
+    async function loadCatalog(url){
+      const use = url || new URLSearchParams(location.search).get('catalog') || DEFAULT_URL;
+      const res = await fetch(use, {cache:'no-store'});
+      if(!res.ok) throw new Error("HTTP "+res.status);
+      const json = await res.json();
+      if(!Array.isArray(json.chapters)) throw new Error("Ungültiges Format: chapters fehlt");
+      CHAPTERS = json.chapters.sort((a,b)=> natCmp(a.code,a.code) && natCmp(a.code,b.code));
+      banner(`Katalog geladen von ${use}`, 'success');
+      renderHome();
+    }
+
+    // ------- Render Home -------
+    function renderHome(){
+      const cats = uniqueCategories(CHAPTERS);
+      if(!ACTIVE_CAT && cats.length) ACTIVE_CAT = cats[0];
+
+      // Sidebar Kategorien
+      const catList = document.getElementById('catList');
+      catList.innerHTML = '';
+      cats.forEach(c=>{
+        const btn = document.createElement('button');
+        btn.className = 'cat' + (ACTIVE_CAT===c? ' active':'');
+        btn.textContent = c;
+        btn.onclick = ()=>{ ACTIVE_CAT = c; renderHome(); };
+        catList.appendChild(btn);
+      });
+
+      // Kapitelliste
+      const filtered = CHAPTERS
+        .filter(ch => (ch.category||'Allgemein') === ACTIVE_CAT)
+        .filter(ch => (ch.level||1) <= USER_LEVEL)
+        .sort((a,b)=> natCmp(a.code,b.code));
+
+      qs('#catTitle').textContent = ACTIVE_CAT;
+      qs('#catCount').textContent = `${filtered.length} Einträge`;
+
+      const wrap = document.getElementById('chapters');
+      wrap.innerHTML = '';
+      filtered.forEach(ch=>{
+        const box = document.createElement('div');
+        box.className = 'card';
+        const body = document.createElement('div');
+        body.className = 'body';
+        const h = document.createElement('div');
+        h.style.fontWeight = 600; h.textContent = `${ch.code} • ${ch.title}`;
+        const sub = document.createElement('div');
+        sub.className = 'small muted'; sub.textContent = `Stufe L${ch.level||1}`;
+        const prog = chapterProgress(ch);
+        const pwrap = document.createElement('div'); pwrap.className='progress';
+        const bar = document.createElement('div'); bar.className='bar'; bar.style.width=`${prog.percent}%`; pwrap.appendChild(bar);
+        const ptxt = document.createElement('div'); ptxt.className='small'; ptxt.style.marginTop='6px'; ptxt.textContent = `${prog.done}/${prog.total} erledigt (${prog.percent}%)`;
+
+        const dueRow = document.createElement('div'); dueRow.className='row small'; dueRow.style.marginTop='10px';
+        const lab = document.createElement('div'); lab.textContent = 'Fällig bis:'; const inp = document.createElement('input'); inp.type='date'; inp.value = Due[ch.code]||''; inp.onchange = e=> { Due[ch.code] = e.target.value; saveDue(); };
+        dueRow.appendChild(lab); dueRow.appendChild(inp);
+
+        const actions = document.createElement('div'); actions.className='row'; actions.style.marginTop='10px';
+        const open = document.createElement('button'); open.className='btn'; open.textContent='Öffnen →'; open.onclick = ()=> openDetail(ch);
+        actions.appendChild(open);
+
+        body.append(h, sub, pwrap, ptxt, dueRow, actions);
+        box.appendChild(body);
+        wrap.appendChild(box);
+      });
+    }
+
+    // ------- Detail -------
+    function openDetail(ch){
+      CURRENT = ch; qs('#main').style.display='none'; qs('#detail').style.display='block';
+      qs('#dTitle').textContent = `${ch.code} • ${ch.title} (L${ch.level||1})`;
+      qs('#dDue').value = Due[ch.code]||''; qs('#dDue').onchange = e=>{ Due[ch.code] = e.target.value; saveDue(); };
+      renderDetail();
+    }
+
+    function renderDetail(){
+      const ch = CURRENT; if(!ch) return;
+      const items = ch.items||[];
+      const list = qs('#dItems'); list.innerHTML='';
+      let stamps = [];
+      items.forEach((it, idx)=>{
+        if(it.type==='header'){
+          const h = document.createElement('div'); h.className='header'; h.textContent = it.text; list.appendChild(h); return;
+        }
+        const key = `${ch.code}::${idx}`; const done = !!(Done[key]&&Done[key].done);
+        const row = document.createElement('label'); row.className = 'task' + (done? ' done':'');
+        const cb = document.createElement('input'); cb.type='checkbox'; cb.checked = done; cb.onchange = ()=>{ const now = !done; Done[key] = {done: now, ts: now? new Date().toISOString(): undefined}; saveDone(); renderDetail(); renderHome(); };
+        const span = document.createElement('span'); span.textContent = it.text;
+        row.append(cb, span); list.appendChild(row);
+        if(done && Done[key].ts) stamps.push(new Date(Done[key].ts).valueOf());
+      });
+      const prog = chapterProgress(ch); qs('#dBar').style.width = `${prog.percent}%`; qs('#dProg').textContent = `${prog.done}/${prog.total} erledigt (${prog.percent}%)`;
+      if(stamps.length){ const last = new Date(Math.max(...stamps)); const next = addMonths(last, 12); qs('#dRe').textContent = `Gültig bis: ${next.toISOString().slice(0,10)}`; } else { qs('#dRe').textContent = 'Noch nicht abgeschlossen.'; }
+    }
+
+    // ------- Import -------
+    function openImporter(){ qs('#importer').style.display='flex'; }
+    function closeImporter(){ qs('#importer').style.display='none'; }
+
+    async function importFromFile(file){
+      const txt = await file.text();
+      const json = JSON.parse(txt);
+      if(!Array.isArray(json.chapters)) throw new Error('Ungültiges Format: chapters fehlt');
+      CHAPTERS = json.chapters; banner('Katalog importiert (Datei)'); closeImporter(); renderHome();
+    }
+
+    async function importFromUrl(){
+      const url = qs('#impUrl').value.trim(); if(!url) return;
+      const res = await fetch(url, {cache:'no-store'}); if(!res.ok) throw new Error('HTTP '+res.status);
+      const json = await res.json(); if(!Array.isArray(json.chapters)) throw new Error('Ungültiges Format: chapters fehlt');
+      CHAPTERS = json.chapters; banner(`Katalog geladen von ${url}`); closeImporter(); renderHome();
+    }
+
+    // ------- Listeners -------
+    document.addEventListener('keydown', (e)=>{ if(e.altKey && (e.key==='i'||e.key==='I')){ e.preventDefault(); openImporter(); } });
+    document.getElementById('btnImport').onclick = openImporter;
+    document.getElementById('impClose').onclick = closeImporter;
+    document.getElementById('impLoad').onclick = ()=> importFromUrl().catch(err=> banner('Import fehlgeschlagen: '+err.message,'notice'));
+    document.getElementById('impFile').addEventListener('change', (e)=>{ const f = e.target.files?.[0]; if(f) importFromFile(f).catch(err=> banner('Import fehlgeschlagen: '+err.message,'notice')); e.target.value=''; });
+    document.getElementById('back').onclick = ()=>{ qs('#detail').style.display='none'; qs('#main').style.display='grid'; CURRENT=null; };
+    document.getElementById('level').onchange = (e)=>{ USER_LEVEL = parseInt(e.target.value||'1',10); renderHome(); };
+    document.getElementById('search').oninput = (e)=>{
+      const q = e.target.value.trim().toLowerCase(); if(!q) return;
+      const cats = uniqueCategories(CHAPTERS); const match = cats.find(c=> c.toLowerCase().startsWith(q)); if(match){ ACTIVE_CAT = match; renderHome(); }
+    };
+
+    // ------- Init -------
+    loadCatalog().catch(err=> banner('Auto-Import fehlgeschlagen: '+err.message + '. Drücke Alt+I für manuellen Import.','notice'));
+  </script>
+</body>
+</html>
