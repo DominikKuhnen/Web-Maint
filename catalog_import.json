@@ -1,0 +1,4863 @@
+{
+  "generated_at": "2025-08-11T21:34:11.320043Z",
+  "source_file": "Einarbeitungsplan MAINT Assembly detailliert.xlsx",
+  "chapters": [
+    {
+      "code": "1.1",
+      "title": "Linienkenntnisse",
+      "sheet": "1.1_Linienkenntnisse",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "AC1000",
+          "level": 1,
+          "id": "1.1-1"
+        },
+        {
+          "title": "AC2000",
+          "level": 1,
+          "id": "1.1-2"
+        },
+        {
+          "title": "C100",
+          "level": 1,
+          "id": "1.1-3"
+        },
+        {
+          "title": "P100",
+          "level": 1,
+          "id": "1.1-4"
+        },
+        {
+          "title": "C200",
+          "level": 1,
+          "id": "1.1-5"
+        },
+        {
+          "title": "P200",
+          "level": 1,
+          "id": "1.1-6"
+        },
+        {
+          "title": "C300",
+          "level": 1,
+          "id": "1.1-7"
+        },
+        {
+          "title": "P300",
+          "level": 1,
+          "id": "1.1-8"
+        },
+        {
+          "title": "P400",
+          "level": 1,
+          "id": "1.1-9"
+        },
+        {
+          "title": "C500",
+          "level": 1,
+          "id": "1.1-10"
+        },
+        {
+          "title": "P500",
+          "level": 1,
+          "id": "1.1-11"
+        },
+        {
+          "title": "C600",
+          "level": 1,
+          "id": "1.1-12"
+        },
+        {
+          "title": "P600",
+          "level": 1,
+          "id": "1.1-13"
+        },
+        {
+          "title": "P700",
+          "level": 1,
+          "id": "1.1-14"
+        },
+        {
+          "title": "P800",
+          "level": 1,
+          "id": "1.1-15"
+        },
+        {
+          "title": "LO0010 (AGF)",
+          "level": 1,
+          "id": "1.1-16"
+        },
+        {
+          "title": "LO4010 (Stopper cushion)",
+          "level": 1,
+          "id": "1.1-17"
+        },
+        {
+          "title": "LO4020 (Containerpresse AGF)",
+          "level": 1,
+          "id": "1.1-18"
+        },
+        {
+          "title": "LO5010 (U400)",
+          "level": 1,
+          "id": "1.1-19"
+        },
+        {
+          "title": "LO5020 (AGF- Pressenhalle)",
+          "level": 1,
+          "id": "1.1-20"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "1.1-21"
+        }
+      ]
+    },
+    {
+      "code": "1.2",
+      "title": "Grundlagen Pneumatik",
+      "sheet": "1.2_Grundlagen Pneumatik",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Gefährdungen durch Pneumatik",
+          "level": 1,
+          "id": "1.2-1"
+        },
+        {
+          "title": "SMC- Kurs Elektropneumatik",
+          "level": 1,
+          "id": "1.2-2"
+        },
+        {
+          "title": "Training an der SMC-Trainingsanlage",
+          "level": 1,
+          "id": "1.2-3"
+        },
+        {
+          "title": "Zylindertypen  kennenlernen (in TDDK verwendet)",
+          "level": 1,
+          "id": "1.2-4"
+        },
+        {
+          "title": "* mit Endlagendämpfung od. Stoßdämpfer",
+          "level": 1,
+          "id": "1.2-5"
+        },
+        {
+          "title": "* mit Bremse in Endlage",
+          "level": 1,
+          "id": "1.2-6"
+        },
+        {
+          "title": "* mit Führung (Shuttlezylinder)",
+          "level": 1,
+          "id": "1.2-7"
+        },
+        {
+          "title": "* Positionssensoren an Zylindern",
+          "level": 1,
+          "id": "1.2-8"
+        },
+        {
+          "title": "Pneumatikventile kennenlernen (in TDDK verwendet)",
+          "level": 1,
+          "id": "1.2-9"
+        },
+        {
+          "title": "* Wegeventile",
+          "level": 1,
+          "id": "1.2-10"
+        },
+        {
+          "title": "* Rückschlagventile",
+          "level": 1,
+          "id": "1.2-11"
+        },
+        {
+          "title": "* Ansteuerungsarten (pneumatisch, elektrisch, …)",
+          "level": 1,
+          "id": "1.2-12"
+        },
+        {
+          "title": "* Prozessventile",
+          "level": 1,
+          "id": "1.2-13"
+        },
+        {
+          "title": "Arbeiten mit Pneumatikplänen (in TDDK verwendet)",
+          "level": 1,
+          "id": "1.2-14"
+        },
+        {
+          "title": "Hydropneumatik (Anwendungsfälle in TDDK)",
+          "level": 1,
+          "id": "1.2-15"
+        },
+        {
+          "title": "Fehlersuche an pneumatischen Anlagen/ Baugruppen",
+          "level": 1,
+          "id": "1.2-16"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "1.2-17"
+        }
+      ]
+    },
+    {
+      "code": "1.3",
+      "title": "Grundlagen Hydraulik",
+      "sheet": "1.3_Grundlagen Hydraulik",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Gefährdungen durch Hydraulik",
+          "level": 1,
+          "id": "1.3-1"
+        },
+        {
+          "title": "Ablauf Schlauchwechsel (Hansaflex)",
+          "level": 1,
+          "id": "1.3-2"
+        },
+        {
+          "title": "Hydraulikzylinder kennenlernen",
+          "level": 1,
+          "id": "1.3-3"
+        },
+        {
+          "title": "* Standardzylinder",
+          "level": 1,
+          "id": "1.3-4"
+        },
+        {
+          "title": "* Spannzylinder",
+          "level": 1,
+          "id": "1.3-5"
+        },
+        {
+          "title": "Hydraulikventile kennenlernen",
+          "level": 1,
+          "id": "1.3-6"
+        },
+        {
+          "title": "* Wegeventile",
+          "level": 1,
+          "id": "1.3-7"
+        },
+        {
+          "title": "* Proportionalventile",
+          "level": 1,
+          "id": "1.3-8"
+        },
+        {
+          "title": "Arbeiten mit Hydraulikplänen",
+          "level": 1,
+          "id": "1.3-9"
+        },
+        {
+          "title": "Hydraulikzylinder entlüften",
+          "level": 1,
+          "id": "1.3-10"
+        },
+        {
+          "title": "Fehlersuche an hydraulischen Anlagen/ Baugruppen",
+          "level": 1,
+          "id": "1.3-11"
+        },
+        {
+          "title": "Proportionalventile abgleichen",
+          "level": 1,
+          "id": "1.3-12"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "1.3-13"
+        }
+      ]
+    },
+    {
+      "code": "1.4",
+      "title": "Grundlagen Sensoren",
+      "sheet": "1.4_Grundlagen Sensoren",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Induktive Sensoren (Typenunterschiede z.B. 2-Draht, PNP …)",
+          "level": 1,
+          "id": "1.4-1"
+        },
+        {
+          "title": "Einweg-Lichtschranken (Sender/Empfänger)",
+          "level": 1,
+          "id": "1.4-2"
+        },
+        {
+          "title": "Reflexions-Lichtschranke (Spiegel)",
+          "level": 1,
+          "id": "1.4-3"
+        },
+        {
+          "title": "Reflexions-Lichttaster (direkte Objekterkennung)",
+          "level": 1,
+          "id": "1.4-4"
+        },
+        {
+          "title": "Lichtschranken mit Lichtwellenleiter",
+          "level": 1,
+          "id": "1.4-5"
+        },
+        {
+          "title": "Laserabstandssensoren",
+          "level": 1,
+          "id": "1.4-6"
+        },
+        {
+          "title": "diverse Reedkontakte",
+          "level": 1,
+          "id": "1.4-7"
+        },
+        {
+          "title": "Druckschalter (Pneumatik/ Hydraulik/ KSS/…)",
+          "level": 1,
+          "id": "1.4-8"
+        },
+        {
+          "title": "Rollenschalter",
+          "level": 1,
+          "id": "1.4-9"
+        },
+        {
+          "title": "Durchflusssensoren",
+          "level": 1,
+          "id": "1.4-10"
+        },
+        {
+          "title": "Ultraschallsensoren",
+          "level": 1,
+          "id": "1.4-11"
+        },
+        {
+          "title": "kapazitive Sensoren",
+          "level": 1,
+          "id": "1.4-12"
+        },
+        {
+          "title": "Füllstandssensoren (Widerstand)",
+          "level": 1,
+          "id": "1.4-13"
+        }
+      ]
+    },
+    {
+      "code": "1.5",
+      "title": "Grundlagen Visionsensoren",
+      "sheet": "1.5_Grundlagen Visionsensoren",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Cognex Vision Sensor",
+          "level": 1,
+          "id": "1.5-1"
+        },
+        {
+          "title": "* Software bedienen",
+          "level": 1,
+          "id": "1.5-2"
+        },
+        {
+          "title": "* Backup erstellen/aufspielen",
+          "level": 1,
+          "id": "1.5-3"
+        },
+        {
+          "title": "* Parameter anpassen/justieren",
+          "level": 1,
+          "id": "1.5-4"
+        },
+        {
+          "title": "* neue Merkmal definieren",
+          "level": 1,
+          "id": "1.5-5"
+        },
+        {
+          "title": "* Anwendungen optimieren",
+          "level": 1,
+          "id": "1.5-6"
+        },
+        {
+          "title": "* neue Anwendungen implementieren",
+          "level": 1,
+          "id": "1.5-7"
+        },
+        {
+          "title": "Keyence Vision Sensor",
+          "level": 1,
+          "id": "1.5-8"
+        }
+      ]
+    },
+    {
+      "code": "1.6",
+      "title": "Sicherheitstechnik",
+      "sheet": "1.6_Sicherheitstechnik",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Sicherheitslichtschranken (z.B. Omron)",
+          "level": 1,
+          "id": "1.6-1"
+        },
+        {
+          "title": "* Aufbau/Funktionsweise",
+          "level": 1,
+          "id": "1.6-2"
+        },
+        {
+          "title": "* Schutzanwendung (Finger/Hand/Arm,Bein/Körper)",
+          "level": 1,
+          "id": "1.6-3"
+        },
+        {
+          "title": "* Prüfkörper",
+          "level": 1,
+          "id": "1.6-4"
+        },
+        {
+          "title": "* Muting (Warum?/Funktionsweise?/ Dongle)",
+          "level": 1,
+          "id": "1.6-5"
+        },
+        {
+          "title": "Sicherheitstürschalter",
+          "level": 1,
+          "id": "1.6-6"
+        },
+        {
+          "title": "* Aufbau/Funktionsweise/ Verdrahtung",
+          "level": 1,
+          "id": "1.6-7"
+        },
+        {
+          "title": "* Typen (mit Zuhaltung /ohne Zuhaltung)",
+          "level": 1,
+          "id": "1.6-8"
+        },
+        {
+          "title": "Not-Aus Relais",
+          "level": 1,
+          "id": "1.6-9"
+        },
+        {
+          "title": "* Typen",
+          "level": 1,
+          "id": "1.6-10"
+        },
+        {
+          "title": "* Funktionsweise (Erklärung/Verdrahtung der einzenen Kanäle)",
+          "level": 1,
+          "id": "1.6-11"
+        },
+        {
+          "title": "* Fehlersuche",
+          "level": 1,
+          "id": "1.6-12"
+        },
+        {
+          "title": "Sicherheitsrelais PNOZmulti (Firma: Pilz)",
+          "level": 1,
+          "id": "1.6-13"
+        },
+        {
+          "title": "* Funktion",
+          "level": 1,
+          "id": "1.6-14"
+        },
+        {
+          "title": "* Softwarebedienung",
+          "level": 1,
+          "id": "1.6-15"
+        },
+        {
+          "title": "Sicherheits SPS:",
+          "level": 1,
+          "id": "1.6-16"
+        },
+        {
+          "title": "* Online gehen",
+          "level": 1,
+          "id": "1.6-17"
+        },
+        {
+          "title": "* Backup erstellen",
+          "level": 1,
+          "id": "1.6-18"
+        },
+        {
+          "title": "* Baugruppen tauschen",
+          "level": 1,
+          "id": "1.6-19"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "1.6-20"
+        }
+      ]
+    },
+    {
+      "code": "1.7",
+      "title": "Grundlagen Elektrik",
+      "sheet": "1.7_Grundlagen Elektrik",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Prüfprotokoll für elektrische Anlagen",
+          "level": 1,
+          "id": "1.7-1"
+        },
+        {
+          "title": "* Schutzleiterverbindung messen",
+          "level": 1,
+          "id": "1.7-2"
+        },
+        {
+          "title": "* Stromaufnahme messen",
+          "level": 1,
+          "id": "1.7-3"
+        },
+        {
+          "title": "* Schleifenwiderstand messen",
+          "level": 1,
+          "id": "1.7-4"
+        },
+        {
+          "title": "* Isolationsmessung durchführen",
+          "level": 1,
+          "id": "1.7-5"
+        },
+        {
+          "title": "* Differenzstrommessung",
+          "level": 1,
+          "id": "1.7-6"
+        },
+        {
+          "title": "* FI Schutzschalter durchmessen",
+          "level": 1,
+          "id": "1.7-7"
+        },
+        {
+          "title": "Messungen mit Oszilloskop",
+          "level": 1,
+          "id": "1.7-8"
+        },
+        {
+          "title": "* Signalverläufe aufzeichnen",
+          "level": 1,
+          "id": "1.7-9"
+        },
+        {
+          "title": "* Messaufbau + Einstellungen",
+          "level": 1,
+          "id": "1.7-10"
+        },
+        {
+          "title": "Verwendung von elektrischen Leitungen",
+          "level": 1,
+          "id": "1.7-11"
+        },
+        {
+          "title": "* Bedeutung der Leitungsfarben",
+          "level": 1,
+          "id": "1.7-12"
+        },
+        {
+          "title": "* geeignete Leitungen bestimmen",
+          "level": 1,
+          "id": "1.7-13"
+        },
+        {
+          "title": "* geeignete Querschnitte ermitteln",
+          "level": 1,
+          "id": "1.7-14"
+        },
+        {
+          "title": "* Leitungsführung Kenntnisse (Einfluss Magnetfeld z.B.)",
+          "level": 1,
+          "id": "1.7-15"
+        },
+        {
+          "title": "Arbeiten mit Schaltplänen",
+          "level": 1,
+          "id": "1.7-16"
+        },
+        {
+          "title": "* lesen japanischer Schaltpläne",
+          "level": 1,
+          "id": "1.7-17"
+        },
+        {
+          "title": "* lesen deutscher Schaltpläne",
+          "level": 1,
+          "id": "1.7-18"
+        },
+        {
+          "title": "* verstehen elektrischer Symbole",
+          "level": 1,
+          "id": "1.7-19"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "1.7-20"
+        }
+      ]
+    },
+    {
+      "code": "1.8",
+      "title": "Grundlagen Messmittel",
+      "sheet": "1.8_Grundlagen Messmittel",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "digitale Messschieber",
+          "level": 1,
+          "id": "1.8-1"
+        },
+        {
+          "title": "* Nullung",
+          "level": 1,
+          "id": "1.8-2"
+        },
+        {
+          "title": "* Messung innen/aussen",
+          "level": 1,
+          "id": "1.8-3"
+        },
+        {
+          "title": "digitaler Tiefenmessschieber",
+          "level": 1,
+          "id": "1.8-4"
+        },
+        {
+          "title": "* Tiefen messen",
+          "level": 1,
+          "id": "1.8-5"
+        },
+        {
+          "title": "Bügelmessschraube",
+          "level": 1,
+          "id": "1.8-6"
+        },
+        {
+          "title": "* Nullung (mit und ohne Endmaß)",
+          "level": 1,
+          "id": "1.8-7"
+        },
+        {
+          "title": "* Messung",
+          "level": 1,
+          "id": "1.8-8"
+        },
+        {
+          "title": "digitale Tiefenmessschraube",
+          "level": 1,
+          "id": "1.8-9"
+        },
+        {
+          "title": "* Austausch Messstift",
+          "level": 1,
+          "id": "1.8-10"
+        },
+        {
+          "title": "Messuhren",
+          "level": 1,
+          "id": "1.8-11"
+        },
+        {
+          "title": "* Unterschiede zwischen den Messuhren",
+          "level": 1,
+          "id": "1.8-12"
+        },
+        {
+          "title": "* Ablesung der Messwerte (Korrekturfaktoren,…)",
+          "level": 1,
+          "id": "1.8-13"
+        },
+        {
+          "title": "Messungen mit Messuhren",
+          "level": 1,
+          "id": "1.8-14"
+        },
+        {
+          "title": "* Rundlaufmessung",
+          "level": 1,
+          "id": "1.8-15"
+        },
+        {
+          "title": "* Ausrichtung/ Geradheit messen",
+          "level": 1,
+          "id": "1.8-16"
+        },
+        {
+          "title": "* Umkehrspiel messen",
+          "level": 1,
+          "id": "1.8-17"
+        },
+        {
+          "title": "* Ausspindeln",
+          "level": 1,
+          "id": "1.8-18"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "1.8-19"
+        }
+      ]
+    },
+    {
+      "code": "1.9",
+      "title": "maschinelle Zerspanung",
+      "sheet": "1.9  maschinelle Zerspanung",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Bohren (Ständerbohrmaschine)",
+          "level": 1,
+          "id": "1.9-1"
+        },
+        {
+          "title": "* korrektes Aufspannen",
+          "level": 1,
+          "id": "1.9-2"
+        },
+        {
+          "title": "* Auswahl korrekte Drehzahl",
+          "level": 1,
+          "id": "1.9-3"
+        },
+        {
+          "title": "* Auswahl korrekten Vorschub",
+          "level": 1,
+          "id": "1.9-4"
+        },
+        {
+          "title": "* stumpfe Bohrer erkennen",
+          "level": 1,
+          "id": "1.9-5"
+        },
+        {
+          "title": "Reiben (Ständerbohrmaschine)",
+          "level": 1,
+          "id": "1.9-6"
+        },
+        {
+          "title": "* richtigen Durchmesser vorbohren",
+          "level": 1,
+          "id": "1.9-7"
+        },
+        {
+          "title": "* richtiger Bearbeitungsablauf",
+          "level": 1,
+          "id": "1.9-8"
+        },
+        {
+          "title": "Schleifen ( Schleifbock)",
+          "level": 1,
+          "id": "1.9-9"
+        },
+        {
+          "title": "* Welche Materialien können geschliffen werden?",
+          "level": 1,
+          "id": "1.9-10"
+        },
+        {
+          "title": "* Welche Schleifscheibe ist die Richtige",
+          "level": 1,
+          "id": "1.9-11"
+        },
+        {
+          "title": "* richtiges Schleifen am Schleifbock",
+          "level": 1,
+          "id": "1.9-12"
+        },
+        {
+          "title": "Drehen (konventionell)",
+          "level": 1,
+          "id": "1.9-13"
+        },
+        {
+          "title": "* richtige Schnittwerte auswählen",
+          "level": 1,
+          "id": "1.9-14"
+        },
+        {
+          "title": "* Außendurchmesser drehen",
+          "level": 1,
+          "id": "1.9-15"
+        },
+        {
+          "title": "* Innendurchmesser drehen",
+          "level": 1,
+          "id": "1.9-16"
+        },
+        {
+          "title": "* Außengewinde drehen (mit Drehmeißel)",
+          "level": 1,
+          "id": "1.9-17"
+        },
+        {
+          "title": "Drehen (CNC)",
+          "level": 1,
+          "id": "1.9-18"
+        },
+        {
+          "title": "* richtige Werkzeuge auswählen",
+          "level": 1,
+          "id": "1.9-19"
+        },
+        {
+          "title": "* CNC-Programme schreiben",
+          "level": 1,
+          "id": "1.9-20"
+        },
+        {
+          "title": "* CNC-Programme abarbeiten",
+          "level": 1,
+          "id": "1.9-21"
+        },
+        {
+          "title": "* Werkzeuge einmessen",
+          "level": 1,
+          "id": "1.9-22"
+        },
+        {
+          "title": "Fräsen (konventionell)",
+          "level": 1,
+          "id": "1.9-23"
+        },
+        {
+          "title": "* Auswahl von Gleichlauf und Gegenlauf",
+          "level": 1,
+          "id": "1.9-24"
+        },
+        {
+          "title": "* Planfräsen",
+          "level": 1,
+          "id": "1.9-25"
+        },
+        {
+          "title": "* Umfangsfräsen",
+          "level": 1,
+          "id": "1.9-26"
+        },
+        {
+          "title": "* Taschenfräsen",
+          "level": 1,
+          "id": "1.9-27"
+        },
+        {
+          "title": "Fräsen (NC/CNC)",
+          "level": 1,
+          "id": "1.9-28"
+        },
+        {
+          "title": "Sägen-Kasto",
+          "level": 1,
+          "id": "1.9-29"
+        },
+        {
+          "title": "* richtig Aufspannen",
+          "level": 1,
+          "id": "1.9-30"
+        },
+        {
+          "title": "* richtige Schnittgeschwindigkeit wählen",
+          "level": 1,
+          "id": "1.9-31"
+        },
+        {
+          "title": "* richtigen Vorschub wählen",
+          "level": 1,
+          "id": "1.9-32"
+        },
+        {
+          "title": "Sägen-Bandsäge",
+          "level": 1,
+          "id": "1.9-33"
+        },
+        {
+          "title": "* richtige Einstellung Sägespalt",
+          "level": 1,
+          "id": "1.9-34"
+        },
+        {
+          "title": "* sicher Sägen",
+          "level": 1,
+          "id": "1.9-35"
+        },
+        {
+          "title": "Flachschleifmaschine",
+          "level": 1,
+          "id": "1.9-36"
+        },
+        {
+          "title": "* Erkennen beschädigter Schleifscheiben",
+          "level": 1,
+          "id": "1.9-37"
+        },
+        {
+          "title": "* sicheres \"Spannen der Bauteile\" (Elektomagnet)",
+          "level": 1,
+          "id": "1.9-38"
+        },
+        {
+          "title": "* Einstellung vom Tischhub",
+          "level": 1,
+          "id": "1.9-39"
+        },
+        {
+          "title": "* \"Ankratzen\" der Bauteile",
+          "level": 1,
+          "id": "1.9-40"
+        },
+        {
+          "title": "* Auswahl der korrekten Zustellung",
+          "level": 1,
+          "id": "1.9-41"
+        },
+        {
+          "title": "* Auswuchten der Schleifscheibe",
+          "level": 1,
+          "id": "1.9-42"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "1.9-43"
+        }
+      ]
+    },
+    {
+      "code": "2.1",
+      "title": "SPS-Omron",
+      "sheet": "2.1_SPS-Omron",
+      "category": "Steuerung",
+      "level": 1,
+      "units": [
+        {
+          "title": "Omron CX-Programmer (Basic 1)",
+          "level": 1,
+          "id": "2.1-1"
+        },
+        {
+          "title": "* Online gehen (verschieden Steuerungsgenerationen)",
+          "level": 1,
+          "id": "2.1-2"
+        },
+        {
+          "title": "* Kommentare ins Programm laden",
+          "level": 1,
+          "id": "2.1-3"
+        },
+        {
+          "title": "* Backup erstellen",
+          "level": 1,
+          "id": "2.1-4"
+        },
+        {
+          "title": "* Backup aufspielen",
+          "level": 1,
+          "id": "2.1-5"
+        },
+        {
+          "title": "* Eingänge/ Ausgänge suchen und beobachten",
+          "level": 1,
+          "id": "2.1-6"
+        },
+        {
+          "title": "* einfache Fehlersuche (finden von fehlenden Eingangssignalen)",
+          "level": 1,
+          "id": "2.1-7"
+        },
+        {
+          "title": "* Funktionsweise Timer",
+          "level": 1,
+          "id": "2.1-8"
+        },
+        {
+          "title": "* Einrichten Datenaufzeichnung und Auswertung",
+          "level": 1,
+          "id": "2.1-9"
+        },
+        {
+          "title": "Omron CX-Programmer (Basic 2)",
+          "level": 1,
+          "id": "2.1-10"
+        },
+        {
+          "title": "* Timer ändern/ hinzufügen",
+          "level": 1,
+          "id": "2.1-11"
+        },
+        {
+          "title": "* Signale hinzufügen \"Und\" + \"Oder\" Verknüpfung",
+          "level": 1,
+          "id": "2.1-12"
+        },
+        {
+          "title": "* Flankenauswertung",
+          "level": 1,
+          "id": "2.1-13"
+        },
+        {
+          "title": "* Ausgänge setzen/rücksetzen",
+          "level": 1,
+          "id": "2.1-14"
+        },
+        {
+          "title": "* Ausgänge zwangssetzen",
+          "level": 1,
+          "id": "2.1-15"
+        },
+        {
+          "title": "* Baugruppen austauschen",
+          "level": 1,
+          "id": "2.1-16"
+        },
+        {
+          "title": "Omron CX-Programmer (Fortgeschritten 1 => \"D-Speicher\")",
+          "level": 1,
+          "id": "2.1-17"
+        },
+        {
+          "title": "* Daten speichern",
+          "level": 1,
+          "id": "2.1-18"
+        },
+        {
+          "title": "* Daten vergleichen",
+          "level": 1,
+          "id": "2.1-19"
+        },
+        {
+          "title": "* Daten schieben",
+          "level": 1,
+          "id": "2.1-20"
+        },
+        {
+          "title": "Omron CX-Integrator (Fortgeschritten 2 => DeviceNet)",
+          "level": 1,
+          "id": "2.1-21"
+        },
+        {
+          "title": "* DeviceNet Aufbau",
+          "level": 1,
+          "id": "2.1-22"
+        },
+        {
+          "title": "* Backup öffnen/erstellen/aufspielen",
+          "level": 1,
+          "id": "2.1-23"
+        },
+        {
+          "title": "* Teilnehmer scannen (Welche Teilnehmer sind da?)",
+          "level": 1,
+          "id": "2.1-24"
+        },
+        {
+          "title": "* Baugruppen parametrieren",
+          "level": 1,
+          "id": "2.1-25"
+        },
+        {
+          "title": "* Baugruppen erweitern",
+          "level": 1,
+          "id": "2.1-26"
+        },
+        {
+          "title": "Omron CX-Integrator (Fortgeschritten 3 => Ethernet)",
+          "level": 1,
+          "id": "2.1-27"
+        },
+        {
+          "title": "* Netzwerkaufbau",
+          "level": 1,
+          "id": "2.1-28"
+        },
+        {
+          "title": "Omron CX-Programmer (Fortgeschritten 4 => Programmierung)",
+          "level": 1,
+          "id": "2.1-29"
+        },
+        {
+          "title": "* komplexe Programmerweiterungen (Implementierung neuer Komponenten z.B. Elektrogreifer)",
+          "level": 1,
+          "id": "2.1-30"
+        },
+        {
+          "title": "Omron Sysmac-Studio (Basic 1)",
+          "level": 1,
+          "id": "2.1-31"
+        },
+        {
+          "title": "* Backup öffnen",
+          "level": 1,
+          "id": "2.1-32"
+        },
+        {
+          "title": "* Onlineverbindung herstellen",
+          "level": 1,
+          "id": "2.1-33"
+        },
+        {
+          "title": "* Synchronisierung (Versionsstände vergleichen)",
+          "level": 1,
+          "id": "2.1-34"
+        },
+        {
+          "title": "* Eingänge/ Ausgänge (variablen) suchen und beobachten",
+          "level": 1,
+          "id": "2.1-35"
+        },
+        {
+          "title": "Omron Sysmac-Studio (Fortgeschritten 1)",
+          "level": 1,
+          "id": "2.1-36"
+        },
+        {
+          "title": "* \"STL-Programmierung\" verstehen",
+          "level": 1,
+          "id": "2.1-37"
+        },
+        {
+          "title": "* Timer ändern",
+          "level": 1,
+          "id": "2.1-38"
+        },
+        {
+          "title": "Omron Sysmac-Studio (Fortgeschritten 2)",
+          "level": 1,
+          "id": "2.1-39"
+        },
+        {
+          "title": "* neue Variablen erstellen (Global + Lokal)",
+          "level": 1,
+          "id": "2.1-40"
+        },
+        {
+          "title": "* Programmänderung durchführen",
+          "level": 1,
+          "id": "2.1-41"
+        },
+        {
+          "title": "* mit Funktionsbausteinen arbeiten",
+          "level": 1,
+          "id": "2.1-42"
+        },
+        {
+          "title": "Omron Sysmac-Studio (Fortgeschritten 3 - EtherCat)",
+          "level": 1,
+          "id": "2.1-43"
+        },
+        {
+          "title": "* Fehlersuche im EtherCat Netzwerk",
+          "level": 1,
+          "id": "2.1-44"
+        },
+        {
+          "title": "* Parametrierung EtherCat Baugruppen",
+          "level": 1,
+          "id": "2.1-45"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "2.1-46"
+        }
+      ]
+    },
+    {
+      "code": "2.2",
+      "title": "SPS-Siemens",
+      "sheet": "2.2_SPS-Siemens",
+      "category": "Steuerung",
+      "level": 1,
+      "units": [
+        {
+          "title": "Step7 (Basic 1)",
+          "level": 1,
+          "id": "2.2-1"
+        },
+        {
+          "title": "* Archiv entpacken/ Archiv erstellen",
+          "level": 1,
+          "id": "2.2-2"
+        },
+        {
+          "title": "* Bausteine vergleichen (Versionsvergleich)",
+          "level": 1,
+          "id": "2.2-3"
+        },
+        {
+          "title": "* Online gehen",
+          "level": 1,
+          "id": "2.2-4"
+        },
+        {
+          "title": "* Erklärung Programmaufbau (OB/ FB/ FC)",
+          "level": 1,
+          "id": "2.2-5"
+        },
+        {
+          "title": "* Programmansichten (KOP/AWL/FUP)",
+          "level": 1,
+          "id": "2.2-6"
+        },
+        {
+          "title": "* Eingänge/ Ausgänge suchen und beobachten",
+          "level": 1,
+          "id": "2.2-7"
+        },
+        {
+          "title": "* einfache Fehlersuche (finden von fehlenden Eingangssignalen)",
+          "level": 1,
+          "id": "2.2-8"
+        },
+        {
+          "title": "* Funktionsweise Timer",
+          "level": 1,
+          "id": "2.2-9"
+        },
+        {
+          "title": "Step7 (Basic 2)",
+          "level": 1,
+          "id": "2.2-10"
+        },
+        {
+          "title": "* Timer ändern/ hinzufügen",
+          "level": 1,
+          "id": "2.2-11"
+        },
+        {
+          "title": "* Signale hinzufügen \"Und\" + \"Oder\" Verknüpfung",
+          "level": 1,
+          "id": "2.2-12"
+        },
+        {
+          "title": "* Flankenauswertung",
+          "level": 1,
+          "id": "2.2-13"
+        },
+        {
+          "title": "* Ausgänge setzen/rücksetzen",
+          "level": 1,
+          "id": "2.2-14"
+        },
+        {
+          "title": "* Ausgänge zwangssetzen",
+          "level": 1,
+          "id": "2.2-15"
+        },
+        {
+          "title": "* Baugruppen austauschen",
+          "level": 1,
+          "id": "2.2-16"
+        },
+        {
+          "title": "Step7 (Fortgeschritten1 - Datenbausteine)",
+          "level": 1,
+          "id": "2.2-17"
+        },
+        {
+          "title": "* Verwendung Datenbaustein",
+          "level": 1,
+          "id": "2.2-18"
+        },
+        {
+          "title": "* Datenbausteine schreiben/lesen",
+          "level": 1,
+          "id": "2.2-19"
+        }
+      ]
+    },
+    {
+      "code": "2.3",
+      "title": "SPS-Rockwell",
+      "sheet": "2.3_SPS-Rockwell",
+      "category": "Steuerung",
+      "level": 1,
+      "units": [
+        {
+          "title": "Rockwell Software",
+          "level": 1,
+          "id": "2.3-1"
+        },
+        {
+          "title": "* Online gehen",
+          "level": 1,
+          "id": "2.3-2"
+        },
+        {
+          "title": "* einfügen Kommentierungen",
+          "level": 1,
+          "id": "2.3-3"
+        },
+        {
+          "title": "* Programme vergleichen",
+          "level": 1,
+          "id": "2.3-4"
+        },
+        {
+          "title": "* einfache Fehlersuche \n     (finden von fehlenden Eingangssignalen)",
+          "level": 1,
+          "id": "2.3-5"
+        },
+        {
+          "title": "* Eingänge/ Ausgänge suchen und beobachten",
+          "level": 1,
+          "id": "2.3-6"
+        },
+        {
+          "title": "* Programme editieren",
+          "level": 1,
+          "id": "2.3-7"
+        },
+        {
+          "title": "*Ausgänge zwangssetzen",
+          "level": 1,
+          "id": "2.3-8"
+        },
+        {
+          "title": "* komplexe Programmänderungen",
+          "level": 1,
+          "id": "2.3-9"
+        },
+        {
+          "title": "* Analogmodule parametrieren",
+          "level": 1,
+          "id": "2.3-10"
+        },
+        {
+          "title": "Rockwell Hardware",
+          "level": 1,
+          "id": "2.3-11"
+        },
+        {
+          "title": "* CPU tauschen",
+          "level": 1,
+          "id": "2.3-12"
+        },
+        {
+          "title": "* Baugruppen tauschen",
+          "level": 1,
+          "id": "2.3-13"
+        },
+        {
+          "title": "* Devicenetscanner",
+          "level": 1,
+          "id": "2.3-14"
+        },
+        {
+          "title": "* Basicmodul tauschen",
+          "level": 1,
+          "id": "2.3-15"
+        },
+        {
+          "title": "* Analogmodule tauschen",
+          "level": 1,
+          "id": "2.3-16"
+        }
+      ]
+    },
+    {
+      "code": "2.4",
+      "title": "SPS-Rockwell",
+      "sheet": "2.4_SPS-Rockwell",
+      "category": "Steuerung",
+      "level": 1,
+      "units": [
+        {
+          "title": "Rockwell Software",
+          "level": 1,
+          "id": "2.4-1"
+        },
+        {
+          "title": "* online gehen",
+          "level": 1,
+          "id": "2.4-2"
+        },
+        {
+          "title": "* Backup erstellen- aufspielen",
+          "level": 1,
+          "id": "2.4-3"
+        },
+        {
+          "title": "* Programme vergleichen",
+          "level": 1,
+          "id": "2.4-4"
+        },
+        {
+          "title": "* einfache Fehlersuche \n    (finden von fehlenden Eingangssignalen)",
+          "level": 1,
+          "id": "2.4-5"
+        },
+        {
+          "title": "* Eingänge/ Ausgänge suchen und beobachten",
+          "level": 1,
+          "id": "2.4-6"
+        },
+        {
+          "title": "* Programme editieren",
+          "level": 1,
+          "id": "2.4-7"
+        },
+        {
+          "title": "* Devicenetscanner",
+          "level": 1,
+          "id": "2.4-8"
+        },
+        {
+          "title": "Rockwell Hardware",
+          "level": 1,
+          "id": "2.4-9"
+        },
+        {
+          "title": "* Hardware tauschen, einrichten",
+          "level": 1,
+          "id": "2.4-10"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "2.4-11"
+        }
+      ]
+    },
+    {
+      "code": "3.1",
+      "title": "HMI-Proface",
+      "sheet": "3.1_HMI-Proface",
+      "category": "Steuerung",
+      "level": 1,
+      "units": [
+        {
+          "title": "Proface - \"alt\"",
+          "level": 1,
+          "id": "3.1-1"
+        },
+        {
+          "title": "* Backup öffnen",
+          "level": 1,
+          "id": "3.1-2"
+        },
+        {
+          "title": "* Backup erstellen/aufspielen",
+          "level": 1,
+          "id": "3.1-3"
+        },
+        {
+          "title": "* Fehlersuche über Fehlernummer \n     (Rückwärtssuche zum SPS-Ausgang)",
+          "level": 1,
+          "id": "3.1-4"
+        },
+        {
+          "title": "* Fehlernummer ergänzen",
+          "level": 1,
+          "id": "3.1-5"
+        },
+        {
+          "title": "* Bildschirm ändern",
+          "level": 1,
+          "id": "3.1-6"
+        },
+        {
+          "title": "* Bildschirm neu erstellen",
+          "level": 1,
+          "id": "3.1-7"
+        },
+        {
+          "title": "Proface - GP Pro EX",
+          "level": 1,
+          "id": "3.1-8"
+        },
+        {
+          "title": "* Panelumrüstung von \"alt\" auf neu (Abkündigung)",
+          "level": 1,
+          "id": "3.1-9"
+        },
+        {
+          "title": "* neues Panelprojekt umsetzen (Neuinstallation)",
+          "level": 1,
+          "id": "3.1-10"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "3.1-11"
+        }
+      ]
+    },
+    {
+      "code": "3.2",
+      "title": "HMI-Omron",
+      "sheet": "3.2_HMI-Omron",
+      "category": "Steuerung",
+      "level": 1,
+      "units": [
+        {
+          "title": "Omron-NTXS",
+          "level": 1,
+          "id": "3.2-1"
+        },
+        {
+          "title": "* Backup öffnen",
+          "level": 1,
+          "id": "3.2-2"
+        },
+        {
+          "title": "* Backup erstellen/aufspielen",
+          "level": 1,
+          "id": "3.2-3"
+        },
+        {
+          "title": "* Bildschirm ändern",
+          "level": 1,
+          "id": "3.2-4"
+        },
+        {
+          "title": "* Bildschirm neu erstellen",
+          "level": 1,
+          "id": "3.2-5"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "3.2-6"
+        }
+      ]
+    },
+    {
+      "code": "3.3",
+      "title": "HMI-Siemens",
+      "sheet": "3.3_HMI-Siemens",
+      "category": "Steuerung",
+      "level": 1,
+      "units": [
+        {
+          "title": "WinCC flexible",
+          "level": 1,
+          "id": "3.3-1"
+        },
+        {
+          "title": "* Backup öffnen",
+          "level": 1,
+          "id": "3.3-2"
+        },
+        {
+          "title": "* Backup erstellen/aufspielen",
+          "level": 1,
+          "id": "3.3-3"
+        },
+        {
+          "title": "* Fehlersuche über Fehlernummer (Rückwärtssuche zum SPS-Ausgang)",
+          "level": 1,
+          "id": "3.3-4"
+        },
+        {
+          "title": "* Fehlernummer ergänzen",
+          "level": 1,
+          "id": "3.3-5"
+        },
+        {
+          "title": "* Bildschirm ändern",
+          "level": 1,
+          "id": "3.3-6"
+        },
+        {
+          "title": "* Bildschirm neu erstellen",
+          "level": 1,
+          "id": "3.3-7"
+        },
+        {
+          "title": "* Panelumrüstung von \"alt\" auf neu (Abkündigung)",
+          "level": 1,
+          "id": "3.3-8"
+        },
+        {
+          "title": "* neues Panelprojekt umsetzen (Neuinstallation)",
+          "level": 1,
+          "id": "3.3-9"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "3.3-10"
+        }
+      ]
+    },
+    {
+      "code": "5.1",
+      "title": "Grundlagen Denso",
+      "sheet": "5.1 Grundlagen Denso",
+      "category": "Roboter",
+      "level": 1,
+      "units": [
+        {
+          "title": "Koordinatensysteme",
+          "level": 1,
+          "id": "5.1-1"
+        },
+        {
+          "title": "* Base/Work/Tool",
+          "level": 1,
+          "id": "5.1-2"
+        },
+        {
+          "title": "Robotertypen",
+          "level": 1,
+          "id": "5.1-3"
+        },
+        {
+          "title": "* 4-Achs/6-Achs",
+          "level": 1,
+          "id": "5.1-4"
+        },
+        {
+          "title": "* Armlängen",
+          "level": 1,
+          "id": "5.1-5"
+        },
+        {
+          "title": "* Montagearten (Decke/ Normal)",
+          "level": 1,
+          "id": "5.1-6"
+        },
+        {
+          "title": "* Air Balance",
+          "level": 1,
+          "id": "5.1-7"
+        },
+        {
+          "title": "Bedienpanel",
+          "level": 1,
+          "id": "5.1-8"
+        },
+        {
+          "title": "* Welche Menüs gibt es?",
+          "level": 1,
+          "id": "5.1-9"
+        },
+        {
+          "title": "* \"Totmannschalter\"",
+          "level": 1,
+          "id": "5.1-10"
+        },
+        {
+          "title": "Roboter per Hand Verfahren",
+          "level": 1,
+          "id": "5.1-11"
+        },
+        {
+          "title": "* Bewegungsmodus (Joint, X-Y, Tool)",
+          "level": 1,
+          "id": "5.1-12"
+        },
+        {
+          "title": "* Fahren mit reduzierter Geschwindigkeit",
+          "level": 1,
+          "id": "5.1-13"
+        },
+        {
+          "title": "* Fahren mit Inching",
+          "level": 1,
+          "id": "5.1-14"
+        },
+        {
+          "title": "* Programm von Hand abfahren",
+          "level": 1,
+          "id": "5.1-15"
+        },
+        {
+          "title": "Teachen",
+          "level": 1,
+          "id": "5.1-16"
+        },
+        {
+          "title": "* arbeiten mit der \"Point Map\"",
+          "level": 1,
+          "id": "5.1-17"
+        },
+        {
+          "title": "* Punkte von Hand anfahren",
+          "level": 1,
+          "id": "5.1-18"
+        },
+        {
+          "title": "* Punkte übernehmen \"Get Position\"",
+          "level": 1,
+          "id": "5.1-19"
+        },
+        {
+          "title": "* arbeiten mit der \"Approach Funktion\"",
+          "level": 1,
+          "id": "5.1-20"
+        },
+        {
+          "title": "* Programme von Hand abfahren",
+          "level": 1,
+          "id": "5.1-21"
+        },
+        {
+          "title": "TPM",
+          "level": 1,
+          "id": "5.1-22"
+        },
+        {
+          "title": "* RB Encoder Batterie tauschen",
+          "level": 1,
+          "id": "5.1-23"
+        },
+        {
+          "title": "* Wartung 6-Achsroboter",
+          "level": 1,
+          "id": "5.1-24"
+        },
+        {
+          "title": "* Wartung 4-Achsroboter",
+          "level": 1,
+          "id": "5.1-25"
+        },
+        {
+          "title": "* Prüfung \"Air Balance\"",
+          "level": 1,
+          "id": "5.1-26"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "5.1-27"
+        }
+      ]
+    },
+    {
+      "code": "5.2",
+      "title": "DENSO Controller",
+      "sheet": "5.2 DENSO Controller",
+      "category": "Roboter",
+      "level": 1,
+      "units": [
+        {
+          "title": "Datensicherung",
+          "level": 1,
+          "id": "5.2-1"
+        },
+        {
+          "title": "* Netzwerkschnittstelle einstellen",
+          "level": 1,
+          "id": "5.2-2"
+        },
+        {
+          "title": "* Projekt vom Controller herunterladen",
+          "level": 1,
+          "id": "5.2-3"
+        },
+        {
+          "title": "* Projekt auf Controller schreiben",
+          "level": 1,
+          "id": "5.2-4"
+        },
+        {
+          "title": "Aufbau Controller",
+          "level": 1,
+          "id": "5.2-5"
+        },
+        {
+          "title": "* Schnittstellen",
+          "level": 1,
+          "id": "5.2-6"
+        },
+        {
+          "title": "* verbaute Komponenten (Achssteuerkarte, Spannungsversorgung, …)",
+          "level": 1,
+          "id": "5.2-7"
+        },
+        {
+          "title": "Austausch Controller",
+          "level": 1,
+          "id": "5.2-8"
+        },
+        {
+          "title": "* Controller tauschen",
+          "level": 1,
+          "id": "5.2-9"
+        },
+        {
+          "title": "* Backup aufspielen mit/ohne  CALSET-Daten",
+          "level": 1,
+          "id": "5.2-10"
+        },
+        {
+          "title": "* Devicenet-Karte tauschen",
+          "level": 1,
+          "id": "5.2-11"
+        },
+        {
+          "title": "* Achssteuerkarten tauschen",
+          "level": 1,
+          "id": "5.2-12"
+        },
+        {
+          "title": "Parametereinstellungen",
+          "level": 1,
+          "id": "5.2-13"
+        },
+        {
+          "title": "* Payload",
+          "level": 1,
+          "id": "5.2-14"
+        },
+        {
+          "title": "* Bewegungsoptimierung",
+          "level": 1,
+          "id": "5.2-15"
+        },
+        {
+          "title": "* Koordinatenverschiebung einrichten (Work, Tool)",
+          "level": 1,
+          "id": "5.2-16"
+        },
+        {
+          "title": "Programmierung",
+          "level": 1,
+          "id": "5.2-17"
+        },
+        {
+          "title": "* Programme am Panel ansehen/editieren",
+          "level": 1,
+          "id": "5.2-18"
+        },
+        {
+          "title": "* Programme in Wincaps ansehen/editieren",
+          "level": 1,
+          "id": "5.2-19"
+        },
+        {
+          "title": "* Timer ändern",
+          "level": 1,
+          "id": "5.2-20"
+        },
+        {
+          "title": "* zusätzliche Punkte einfügen",
+          "level": 1,
+          "id": "5.2-21"
+        },
+        {
+          "title": "* Programmieren mit Servoabschaltung",
+          "level": 1,
+          "id": "5.2-22"
+        },
+        {
+          "title": "* Programmieren mit CurrentLimit",
+          "level": 1,
+          "id": "5.2-23"
+        },
+        {
+          "title": "* Servologs erstellen auswerten",
+          "level": 1,
+          "id": "5.2-24"
+        },
+        {
+          "title": "* komplett neue Programme schreiben/ Programmstrukturen anpassen",
+          "level": 1,
+          "id": "5.2-25"
+        },
+        {
+          "title": "Umrüstung auf neueres System (Abkündigung)",
+          "level": 1,
+          "id": "5.2-26"
+        },
+        {
+          "title": "* Änderung Verdrahtung",
+          "level": 1,
+          "id": "5.2-27"
+        },
+        {
+          "title": "* Anpassung Roboterprogramme",
+          "level": 1,
+          "id": "5.2-28"
+        },
+        {
+          "title": "* Anpassung Schnittstellen",
+          "level": 1,
+          "id": "5.2-29"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "5.2-30"
+        }
+      ]
+    },
+    {
+      "code": "5.3",
+      "title": "DENSO Roboterarm",
+      "sheet": "5.3 DENSO Roboterarm",
+      "category": "Roboter",
+      "level": 1,
+      "units": [
+        {
+          "title": "Roboterarm tauschen",
+          "level": 1,
+          "id": "5.3-1"
+        },
+        {
+          "title": "* Roboterarm ein/ausbauen",
+          "level": 1,
+          "id": "5.3-2"
+        },
+        {
+          "title": "* Bremsen über Panel lösen",
+          "level": 1,
+          "id": "5.3-3"
+        },
+        {
+          "title": "* CALSET durchführen",
+          "level": 1,
+          "id": "5.3-4"
+        },
+        {
+          "title": "* Rangedaten im Controller eintragen",
+          "level": 1,
+          "id": "5.3-5"
+        },
+        {
+          "title": "Roboterarm allgemein",
+          "level": 1,
+          "id": "5.3-6"
+        },
+        {
+          "title": "* interne Pneumatikventile",
+          "level": 1,
+          "id": "5.3-7"
+        },
+        {
+          "title": "* elektrische Anschlüsse (Welche Anschlüsse gibt es?)",
+          "level": 1,
+          "id": "5.3-8"
+        },
+        {
+          "title": "* IP67 Spezifikation (Sperrluft, separate Filter, …)",
+          "level": 1,
+          "id": "5.3-9"
+        },
+        {
+          "title": "* Sicherungsplatine ( Wo verbaut? / Welche Funktion?)",
+          "level": 1,
+          "id": "5.3-10"
+        },
+        {
+          "title": "Roboterarm Reparatur",
+          "level": 1,
+          "id": "5.3-11"
+        },
+        {
+          "title": "* Austausch Zahnriemen",
+          "level": 1,
+          "id": "5.3-12"
+        },
+        {
+          "title": "* Austausch Motor",
+          "level": 1,
+          "id": "5.3-13"
+        },
+        {
+          "title": "* Austauch Harmonic Drive",
+          "level": 1,
+          "id": "5.3-14"
+        },
+        {
+          "title": "* Austausch 3.te Achse beim 4-Achsroboter",
+          "level": 1,
+          "id": "5.3-15"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "5.3-16"
+        }
+      ]
+    },
+    {
+      "code": "6.1",
+      "title": "Grundlagen IAI",
+      "sheet": "6.1 Grundlagen IAI",
+      "category": "Servoachsen",
+      "level": 1,
+      "units": [
+        {
+          "title": "IAI-Achsen (Aufbau)",
+          "level": 1,
+          "id": "6.1-1"
+        },
+        {
+          "title": "* Schlittenachsen",
+          "level": 1,
+          "id": "6.1-2"
+        },
+        {
+          "title": "* Schubstangenachsen",
+          "level": 1,
+          "id": "6.1-3"
+        },
+        {
+          "title": "IAI-Controller (Typen)",
+          "level": 1,
+          "id": "6.1-4"
+        },
+        {
+          "title": "* Positioniersteuerung (PCON, SCON)",
+          "level": 1,
+          "id": "6.1-5"
+        },
+        {
+          "title": "* Programmsteuerung (XSEL)",
+          "level": 1,
+          "id": "6.1-6"
+        },
+        {
+          "title": "TPM",
+          "level": 1,
+          "id": "6.1-7"
+        },
+        {
+          "title": "* IAI Absolutwert Backupbatterie Wechsel",
+          "level": 1,
+          "id": "6.1-8"
+        },
+        {
+          "title": "* IAI Achswartung",
+          "level": 1,
+          "id": "6.1-9"
+        },
+        {
+          "title": "* IAI Systemspeicher Backupbatterie Wechsel",
+          "level": 1,
+          "id": "6.1-10"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "6.1-11"
+        }
+      ]
+    },
+    {
+      "code": "6.2",
+      "title": "IAI - Controller",
+      "sheet": "6.2 IAI - Controller",
+      "category": "Servoachsen",
+      "level": 1,
+      "units": [
+        {
+          "title": "PCON/SCON",
+          "level": 1,
+          "id": "6.2-1"
+        },
+        {
+          "title": "* Bedienung über Handbediengerät",
+          "level": 1,
+          "id": "6.2-2"
+        },
+        {
+          "title": "* Verbindung mit PC-Software",
+          "level": 1,
+          "id": "6.2-3"
+        },
+        {
+          "title": "* Backup erstellen/Backup aufspielen",
+          "level": 1,
+          "id": "6.2-4"
+        },
+        {
+          "title": "* Nullpunkt Prozedur durchführen",
+          "level": 1,
+          "id": "6.2-5"
+        },
+        {
+          "title": "* Punkte anpassen/teachen",
+          "level": 1,
+          "id": "6.2-6"
+        },
+        {
+          "title": "* Parameter anpassen/prüfen",
+          "level": 1,
+          "id": "6.2-7"
+        },
+        {
+          "title": "* \"Push Modus\" einstellen/anpassen",
+          "level": 1,
+          "id": "6.2-8"
+        },
+        {
+          "title": "* Controller austauschen",
+          "level": 1,
+          "id": "6.2-9"
+        },
+        {
+          "title": "X-Sel",
+          "level": 1,
+          "id": "6.2-10"
+        },
+        {
+          "title": "* Backup erstellen/ Backup aufspielen",
+          "level": 1,
+          "id": "6.2-11"
+        },
+        {
+          "title": "* Nullpunkt prozedur für Synchronachsen (CY2070-90)",
+          "level": 1,
+          "id": "6.2-12"
+        },
+        {
+          "title": "* IAI Programm verstehen",
+          "level": 1,
+          "id": "6.2-13"
+        },
+        {
+          "title": "* IAI Programm anpassen",
+          "level": 1,
+          "id": "6.2-14"
+        },
+        {
+          "title": "* Controller - Spannungsversorgung tauschen",
+          "level": 1,
+          "id": "6.2-15"
+        },
+        {
+          "title": "* Controller - Achssteuerkarte tauschen",
+          "level": 1,
+          "id": "6.2-16"
+        },
+        {
+          "title": "* IAI Programm schreiben",
+          "level": 1,
+          "id": "6.2-17"
+        },
+        {
+          "title": "* IAI Achssystem umrüsten (Abkündigung)",
+          "level": 1,
+          "id": "6.2-18"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "6.2-19"
+        }
+      ]
+    },
+    {
+      "code": "6.3",
+      "title": "IAI - Achsen",
+      "sheet": "6.3 IAI - Achsen",
+      "category": "Servoachsen",
+      "level": 1,
+      "units": [
+        {
+          "title": "Aufbau der Achssysteme",
+          "level": 1,
+          "id": "6.3-1"
+        },
+        {
+          "title": "* Einzelachse",
+          "level": 1,
+          "id": "6.3-2"
+        },
+        {
+          "title": "* Achse mit Supportführung",
+          "level": 1,
+          "id": "6.3-3"
+        },
+        {
+          "title": "* Synchronachsen",
+          "level": 1,
+          "id": "6.3-4"
+        },
+        {
+          "title": "* Antriebsvarianten (Kugelrollspindel/Zahnriemen)",
+          "level": 1,
+          "id": "6.3-5"
+        },
+        {
+          "title": "Reparaturen",
+          "level": 1,
+          "id": "6.3-6"
+        },
+        {
+          "title": "* Zahnriemen wechseln",
+          "level": 1,
+          "id": "6.3-7"
+        },
+        {
+          "title": "* Motor wechseln",
+          "level": 1,
+          "id": "6.3-8"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "6.3-9"
+        }
+      ]
+    },
+    {
+      "code": "11.2",
+      "title": "TOYOSK - Achsen",
+      "sheet": "11.2 TOYOSK - Achsen",
+      "category": "Kamerasysteme",
+      "level": 1,
+      "units": [
+        {
+          "title": "Kugelrollspindel tauschen X/Z",
+          "level": 1,
+          "id": "11.2-1"
+        },
+        {
+          "title": "* Kugelrollspindel demontieren",
+          "level": 1,
+          "id": "11.2-2"
+        },
+        {
+          "title": "* Lager montieren",
+          "level": 1,
+          "id": "11.2-3"
+        },
+        {
+          "title": "* Lager abstimmen",
+          "level": 1,
+          "id": "11.2-4"
+        },
+        {
+          "title": "* Kugelrollspindel montieren",
+          "level": 1,
+          "id": "11.2-5"
+        },
+        {
+          "title": "Kugelrollspindel tauschen Y",
+          "level": 1,
+          "id": "11.2-6"
+        },
+        {
+          "title": "* Achse abstützen",
+          "level": 1,
+          "id": "11.2-7"
+        },
+        {
+          "title": "* Schmierleitungen montieren",
+          "level": 1,
+          "id": "11.2-8"
+        },
+        {
+          "title": "LM-Guides tauschen X/Z",
+          "level": 1,
+          "id": "11.2-9"
+        },
+        {
+          "title": "* LM-Guides demontieren",
+          "level": 1,
+          "id": "11.2-10"
+        },
+        {
+          "title": "* LM-Guides montieren",
+          "level": 1,
+          "id": "11.2-11"
+        },
+        {
+          "title": "LM-Guides tauschen Y",
+          "level": 1,
+          "id": "11.2-12"
+        },
+        {
+          "title": "Nikkentisch CNC401",
+          "level": 1,
+          "id": "11.2-13"
+        },
+        {
+          "title": "* Nikkentisch tauschen",
+          "level": 1,
+          "id": "11.2-14"
+        },
+        {
+          "title": "Nikkentisch CNC180",
+          "level": 1,
+          "id": "11.2-15"
+        },
+        {
+          "title": "Messungen",
+          "level": 1,
+          "id": "11.2-16"
+        },
+        {
+          "title": "* Backlashmessung von \"Hand\" (X+Z-Achse)",
+          "level": 1,
+          "id": "11.2-17"
+        },
+        {
+          "title": "* Backlashmessung Nikkentische",
+          "level": 1,
+          "id": "11.2-18"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "11.2-19"
+        }
+      ]
+    },
+    {
+      "code": "11.3",
+      "title": "TOYOSK - Einrichten",
+      "sheet": "11.3_TOYOSK - Einrichten",
+      "category": "Kamerasysteme",
+      "level": 1,
+      "units": [
+        {
+          "title": "Maschinennullpunkt setzen",
+          "level": 1,
+          "id": "11.3-1"
+        },
+        {
+          "title": "* Nikkentisch Nullpunkt setzen",
+          "level": 1,
+          "id": "11.3-2"
+        },
+        {
+          "title": "* Maschine ausspindeln",
+          "level": 1,
+          "id": "11.3-3"
+        },
+        {
+          "title": "* Nullpunkt setzen X+Y",
+          "level": 1,
+          "id": "11.3-4"
+        },
+        {
+          "title": "* Nullpunkt setzen Z (BT30-Spindel)",
+          "level": 1,
+          "id": "11.3-5"
+        },
+        {
+          "title": "* Nullpunkt setzen Z (NC5-Spindel)",
+          "level": 1,
+          "id": "11.3-6"
+        },
+        {
+          "title": "Einrichten nach 3D-Protokoll",
+          "level": 1,
+          "id": "11.3-7"
+        },
+        {
+          "title": "* Verstehen der Koordinatensysteme (MKS/WKS)",
+          "level": 1,
+          "id": "11.3-8"
+        },
+        {
+          "title": "* Messprotokoll/ PiWeb verstehen",
+          "level": 1,
+          "id": "11.3-9"
+        },
+        {
+          "title": "* Herleiten der Korrekturwerte aus 3D-Daten/ Ausrichtung Teil in Maschine/ NC-Programm",
+          "level": 1,
+          "id": "11.3-10"
+        },
+        {
+          "title": "* Korrektur WKS im NC-Programm",
+          "level": 1,
+          "id": "11.3-11"
+        },
+        {
+          "title": "* Verstehen der NC-Programme (Struktur + Befehle)",
+          "level": 1,
+          "id": "11.3-12"
+        },
+        {
+          "title": "* Maschine sicher wieder in Betrieb nehmen (Single Block, reduzierte Geschwindigkeiten, …)",
+          "level": 1,
+          "id": "11.3-13"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "11.3-14"
+        }
+      ]
+    },
+    {
+      "code": "11.4",
+      "title": "TOYOSK_Werkzeugwechsel",
+      "sheet": "11.4_TOYOSK_Werkzeugwechsel",
+      "category": "Kamerasysteme",
+      "level": 1,
+      "units": [
+        {
+          "title": "Werkzeugwechsel einstellen",
+          "level": 1,
+          "id": "11.4-1"
+        },
+        {
+          "title": "* Spindelorientierung einstellen",
+          "level": 1,
+          "id": "11.4-2"
+        },
+        {
+          "title": "* Einstellung \"Pushing Amount\"",
+          "level": 1,
+          "id": "11.4-3"
+        },
+        {
+          "title": "* ATC - Position einstellen",
+          "level": 1,
+          "id": "11.4-4"
+        },
+        {
+          "title": "ATC Cam Box",
+          "level": 1,
+          "id": "11.4-5"
+        },
+        {
+          "title": "* ATC - Clamp Stroke Adjust",
+          "level": 1,
+          "id": "11.4-6"
+        },
+        {
+          "title": "* Magazin Encoder einstellen",
+          "level": 1,
+          "id": "11.4-7"
+        },
+        {
+          "title": "* Backlash einstellen",
+          "level": 1,
+          "id": "11.4-8"
+        },
+        {
+          "title": "* Justage Nockenschalter",
+          "level": 1,
+          "id": "11.4-9"
+        },
+        {
+          "title": "* Austausch komplette Cam Box",
+          "level": 1,
+          "id": "11.4-10"
+        },
+        {
+          "title": "* Ausrichtung Cam Box",
+          "level": 1,
+          "id": "11.4-11"
+        },
+        {
+          "title": "ATC Cam Box überholen",
+          "level": 1,
+          "id": "11.4-12"
+        },
+        {
+          "title": "* Verschleißteile Cam Box austauschen",
+          "level": 1,
+          "id": "11.4-13"
+        },
+        {
+          "title": "* Spiel Cam Box einstellen",
+          "level": 1,
+          "id": "11.4-14"
+        },
+        {
+          "title": "Handbedienung",
+          "level": 1,
+          "id": "11.4-15"
+        },
+        {
+          "title": "* Werkzeug von Hand entnehmen",
+          "level": 1,
+          "id": "11.4-16"
+        },
+        {
+          "title": "* Werkzeugwechsel im Handmodus durchführen",
+          "level": 1,
+          "id": "11.4-17"
+        },
+        {
+          "title": "* Werkzeugwechsel über MDI - Modus",
+          "level": 1,
+          "id": "11.4-18"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "11.4-19"
+        }
+      ]
+    },
+    {
+      "code": "11.5",
+      "title": "TOYOSK_WZ-Spindel",
+      "sheet": "11.5_TOYOSK_WZ-Spindel",
+      "category": "Kamerasysteme",
+      "level": 1,
+      "units": [
+        {
+          "title": "Messungen",
+          "level": 1,
+          "id": "11.5-1"
+        },
+        {
+          "title": "* Messung Spindelrundlauf (mit Messuhr)",
+          "level": 1,
+          "id": "11.5-2"
+        },
+        {
+          "title": "* Messung Spindeleinzugskraft",
+          "level": 1,
+          "id": "11.5-3"
+        },
+        {
+          "title": "* Messung Spindelunwucht (Bruel & Kjaer)",
+          "level": 1,
+          "id": "11.5-4"
+        },
+        {
+          "title": "Austausch Toyosk-Werkzeugspindel",
+          "level": 1,
+          "id": "11.5-5"
+        },
+        {
+          "title": "* Demontage/Montage Werkzeugspindel",
+          "level": 1,
+          "id": "11.5-6"
+        },
+        {
+          "title": "* Spindeleinlaufprogramm",
+          "level": 1,
+          "id": "11.5-7"
+        },
+        {
+          "title": "* Spindel auswuchten (sind schon gewuchtet)",
+          "level": 1,
+          "id": "11.5-8"
+        },
+        {
+          "title": "Austausch Spindelmotor",
+          "level": 1,
+          "id": "11.5-9"
+        },
+        {
+          "title": "* Montage/ Demontage Spindelmotor (\"Massefeder\")",
+          "level": 1,
+          "id": "11.5-10"
+        },
+        {
+          "title": "* Montage/ Demontage \"Klemmzylinder\"",
+          "level": 1,
+          "id": "11.5-11"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "11.5-12"
+        }
+      ]
+    },
+    {
+      "code": "11.6",
+      "title": "TOYOSK - Steuerung",
+      "sheet": "11.6 TOYOSK - Steuerung",
+      "category": "Kamerasysteme",
+      "level": 1,
+      "units": [
+        {
+          "title": "CNC Steuerung",
+          "level": 1,
+          "id": "11.6-1"
+        },
+        {
+          "title": "* SRAM Backup",
+          "level": 1,
+          "id": "11.6-2"
+        },
+        {
+          "title": "* FROM Backup",
+          "level": 1,
+          "id": "11.6-3"
+        },
+        {
+          "title": "FANUC PMC",
+          "level": 1,
+          "id": "11.6-4"
+        },
+        {
+          "title": "* PMC Programm sichern",
+          "level": 1,
+          "id": "11.6-5"
+        },
+        {
+          "title": "* PMC Parameter sichern",
+          "level": 1,
+          "id": "11.6-6"
+        },
+        {
+          "title": "* Ladder an der Steuerung öffnen",
+          "level": 1,
+          "id": "11.6-7"
+        },
+        {
+          "title": "* Fehlersuche im Ladder",
+          "level": 1,
+          "id": "11.6-8"
+        },
+        {
+          "title": "* Signal Trace-Funktion nutzen",
+          "level": 1,
+          "id": "11.6-9"
+        },
+        {
+          "title": "* PMC Programm bearbeiten/ändern",
+          "level": 1,
+          "id": "11.6-10"
+        },
+        {
+          "title": "* PMC Programm nach Änderung aufspielen",
+          "level": 1,
+          "id": "11.6-11"
+        },
+        {
+          "title": "* FROM schreiben",
+          "level": 1,
+          "id": "11.6-12"
+        },
+        {
+          "title": "NC-Programme",
+          "level": 1,
+          "id": "11.6-13"
+        },
+        {
+          "title": "* Programmzeilen im MDI-Modus ausführen",
+          "level": 1,
+          "id": "11.6-14"
+        },
+        {
+          "title": "* NC-Programme/Befehle verstehen",
+          "level": 1,
+          "id": "11.6-15"
+        },
+        {
+          "title": "* NC-Programme ändern",
+          "level": 1,
+          "id": "11.6-16"
+        },
+        {
+          "title": "* Fehlersuche in NC-Programmen",
+          "level": 1,
+          "id": "11.6-17"
+        },
+        {
+          "title": "* NC-Programme schreiben",
+          "level": 1,
+          "id": "11.6-18"
+        },
+        {
+          "title": "Reparatur",
+          "level": 1,
+          "id": "11.6-19"
+        },
+        {
+          "title": "* Servoamplifier tauschen",
+          "level": 1,
+          "id": "11.6-20"
+        },
+        {
+          "title": "* Lüfter der Amplifier tauschen",
+          "level": 1,
+          "id": "11.6-21"
+        },
+        {
+          "title": "* NC-Steuerung tauschen",
+          "level": 1,
+          "id": "11.6-22"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "11.6-23"
+        }
+      ]
+    },
+    {
+      "code": "12.1",
+      "title": "Grundlagen IZUMI Grinding",
+      "sheet": "12.1 Grundlagen IZUMI Grinding",
+      "category": "Barcodereader Scanner",
+      "level": 1,
+      "units": [
+        {
+          "title": "Tasten und Regler an der Steuerung erklären (Bedienung)",
+          "level": 1,
+          "id": "12.1-1"
+        },
+        {
+          "title": "Maschinenaufbau erklären",
+          "level": 1,
+          "id": "12.1-2"
+        },
+        {
+          "title": "* Anzahl Achsen (X,Y,Z,B)",
+          "level": 1,
+          "id": "12.1-3"
+        },
+        {
+          "title": "* LM-Guide",
+          "level": 1,
+          "id": "12.1-4"
+        },
+        {
+          "title": "* Kugelrollspindel",
+          "level": 1,
+          "id": "12.1-5"
+        },
+        {
+          "title": "* Messsystem (indirektes Messystem)",
+          "level": 1,
+          "id": "12.1-6"
+        },
+        {
+          "title": "* Loaderaufbau",
+          "level": 1,
+          "id": "12.1-7"
+        },
+        {
+          "title": "* Spindelaufbau",
+          "level": 1,
+          "id": "12.1-8"
+        },
+        {
+          "title": "Bildschirme erklären (zeigen + kurze Erklärung)",
+          "level": 1,
+          "id": "12.1-9"
+        },
+        {
+          "title": "* Position",
+          "level": 1,
+          "id": "12.1-10"
+        },
+        {
+          "title": "* Parameter",
+          "level": 1,
+          "id": "12.1-11"
+        },
+        {
+          "title": "* Offset",
+          "level": 1,
+          "id": "12.1-12"
+        },
+        {
+          "title": "* PMC (Ladder/KeepRelais/...)",
+          "level": 1,
+          "id": "12.1-13"
+        },
+        {
+          "title": "Schaltschrank (Bauteile erklären)",
+          "level": 1,
+          "id": "12.1-14"
+        },
+        {
+          "title": "* Achsensteuerung  (Hauptschrank)",
+          "level": 1,
+          "id": "12.1-15"
+        },
+        {
+          "title": "Arbeiten mit Dokumentation",
+          "level": 1,
+          "id": "12.1-16"
+        },
+        {
+          "title": "* Teile im Manual finden",
+          "level": 1,
+          "id": "12.1-17"
+        },
+        {
+          "title": "* Fehlersuche im Fanuc-Manual über Fehlernumer",
+          "level": 1,
+          "id": "12.1-18"
+        },
+        {
+          "title": "Ausrichten Maschine",
+          "level": 1,
+          "id": "12.1-19"
+        },
+        {
+          "title": "* Maschine mittels Maschinenwasserwaage ausrichten",
+          "level": 1,
+          "id": "12.1-20"
+        },
+        {
+          "title": "TPM Jobs",
+          "level": 1,
+          "id": "12.1-21"
+        },
+        {
+          "title": "* Austausch Backup Batterie FANUC - CNC",
+          "level": 1,
+          "id": "12.1-22"
+        },
+        {
+          "title": "* Austausch Backup Batterie FANUC - ß-Amplifier",
+          "level": 1,
+          "id": "12.1-23"
+        },
+        {
+          "title": "* Austausch Backup Batterie FANUC - X/Y/Z-Axis",
+          "level": 1,
+          "id": "12.1-24"
+        },
+        {
+          "title": "* Reinigung Lüfter vom Spindelmotor",
+          "level": 1,
+          "id": "12.1-25"
+        },
+        {
+          "title": "* Riemen des Loaders prüfen",
+          "level": 1,
+          "id": "12.1-26"
+        },
+        {
+          "title": "* Überprüfung der Spindelantriebsriemen",
+          "level": 1,
+          "id": "12.1-27"
+        },
+        {
+          "title": "* Umkehrspiel (Backlash) B-Achse überprüfen",
+          "level": 1,
+          "id": "12.1-28"
+        },
+        {
+          "title": "* VENTURI Düse - Lichtschranke reinigen",
+          "level": 1,
+          "id": "12.1-29"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "12.1-30"
+        }
+      ]
+    },
+    {
+      "code": "12.2",
+      "title": "IZUMI Grinding- Achsen",
+      "sheet": "12.2 IZUMI Grinding- Achsen",
+      "category": "Barcodereader Scanner",
+      "level": 1,
+      "units": [
+        {
+          "title": "Kugelrollspindel tauschen X/Z",
+          "level": 1,
+          "id": "12.2-1"
+        },
+        {
+          "title": "* Kugelrollspindel demontieren",
+          "level": 1,
+          "id": "12.2-2"
+        },
+        {
+          "title": "* Lager montieren",
+          "level": 1,
+          "id": "12.2-3"
+        },
+        {
+          "title": "* Lager abstimmen",
+          "level": 1,
+          "id": "12.2-4"
+        },
+        {
+          "title": "* Kugelrollspindel montieren",
+          "level": 1,
+          "id": "12.2-5"
+        },
+        {
+          "title": "Kugelrollspindel tauschen Y",
+          "level": 1,
+          "id": "12.2-6"
+        },
+        {
+          "title": "* Achse abstützen",
+          "level": 1,
+          "id": "12.2-7"
+        },
+        {
+          "title": "* Schmierleitungen montieren",
+          "level": 1,
+          "id": "12.2-8"
+        },
+        {
+          "title": "LM-Guides tauschen X/Z",
+          "level": 1,
+          "id": "12.2-9"
+        },
+        {
+          "title": "* LM-Guides demontieren",
+          "level": 1,
+          "id": "12.2-10"
+        },
+        {
+          "title": "* LM-Guides montieren",
+          "level": 1,
+          "id": "12.2-11"
+        },
+        {
+          "title": "LM-Guides tauschen Y",
+          "level": 1,
+          "id": "12.2-12"
+        },
+        {
+          "title": "Nikkentisch CNCZ503",
+          "level": 1,
+          "id": "12.2-13"
+        },
+        {
+          "title": "* Nikkentisch tauschen",
+          "level": 1,
+          "id": "12.2-14"
+        },
+        {
+          "title": "Messungen",
+          "level": 1,
+          "id": "12.2-15"
+        },
+        {
+          "title": "* Backlashmessung von \"Hand\" (X+Z-Achse)",
+          "level": 1,
+          "id": "12.2-16"
+        },
+        {
+          "title": "* Backlashmessung Nikkentische",
+          "level": 1,
+          "id": "12.2-17"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "12.2-18"
+        }
+      ]
+    },
+    {
+      "code": "12.3",
+      "title": "IZUMI Grinding- Einrichten",
+      "sheet": "12.3 IZUMI Grinding- Einrichten",
+      "category": "Barcodereader Scanner",
+      "level": 1,
+      "units": [
+        {
+          "title": "Maschinennullpunkt setzen",
+          "level": 1,
+          "id": "12.3-1"
+        },
+        {
+          "title": "* Nikkentisch Nullpunkt setzen (B-Achse)",
+          "level": 1,
+          "id": "12.3-2"
+        },
+        {
+          "title": "* Maschine ausspindeln",
+          "level": 1,
+          "id": "12.3-3"
+        },
+        {
+          "title": "* Nullpunkt setzen X+Y+Z",
+          "level": 1,
+          "id": "12.3-4"
+        },
+        {
+          "title": "Jigklemmung",
+          "level": 1,
+          "id": "12.3-5"
+        },
+        {
+          "title": "* Überprüfen der Jigklemmung mit Master",
+          "level": 1,
+          "id": "12.3-6"
+        },
+        {
+          "title": "* Einstellen der Jigklemmung mit Master",
+          "level": 1,
+          "id": "12.3-7"
+        },
+        {
+          "title": "Einrichten nach 3D-Protokoll",
+          "level": 1,
+          "id": "12.3-8"
+        },
+        {
+          "title": "* Verstehen der Koordinatensysteme (MKS/WKS)",
+          "level": 1,
+          "id": "12.3-9"
+        },
+        {
+          "title": "* Messprotokoll/ PiWeb verstehen",
+          "level": 1,
+          "id": "12.3-10"
+        },
+        {
+          "title": "* Herleiten der Korrekturwerte aus 3D-Daten/ Ausrichtung Teil in Maschine/ NC-Programm",
+          "level": 1,
+          "id": "12.3-11"
+        },
+        {
+          "title": "* Korrektur WKS im NC-Programm",
+          "level": 1,
+          "id": "12.3-12"
+        },
+        {
+          "title": "* Verstehen der NC-Programme (Struktur + Befehle)",
+          "level": 1,
+          "id": "12.3-13"
+        },
+        {
+          "title": "* Überprüfung der Offsetwerte der Werkzeuge",
+          "level": 1,
+          "id": "12.3-14"
+        },
+        {
+          "title": "* Maschine sicher wieder in Betrieb nehmen (Single Block, reduzierte Geschwindigkeiten, …)",
+          "level": 1,
+          "id": "12.3-15"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "12.3-16"
+        }
+      ]
+    },
+    {
+      "code": "12.4",
+      "title": "IZUMI Grinding_WZ-Spindel",
+      "sheet": "12.4 IZUMI Grinding_WZ-Spindel",
+      "category": "Barcodereader Scanner",
+      "level": 1,
+      "units": [
+        {
+          "title": "Messungen",
+          "level": 1,
+          "id": "12.4-1"
+        },
+        {
+          "title": "* Messung Spindelrundlauf (mit Messuhr)",
+          "level": 1,
+          "id": "12.4-2"
+        },
+        {
+          "title": "* Messung Planschlag an der Schleifscheibe",
+          "level": 1,
+          "id": "12.4-3"
+        },
+        {
+          "title": "* Messung Spindelunwucht (Bruel & Kjaer)",
+          "level": 1,
+          "id": "12.4-4"
+        },
+        {
+          "title": "Austausch Werkzeugspindel",
+          "level": 1,
+          "id": "12.4-5"
+        },
+        {
+          "title": "* Demontage/Montage Werkzeugspindel",
+          "level": 1,
+          "id": "12.4-6"
+        },
+        {
+          "title": "* Spindeleinlaufprogramm",
+          "level": 1,
+          "id": "12.4-7"
+        },
+        {
+          "title": "* Spindel auswuchten",
+          "level": 1,
+          "id": "12.4-8"
+        },
+        {
+          "title": "Austausch Spindelmotor",
+          "level": 1,
+          "id": "12.4-9"
+        },
+        {
+          "title": "* Montage/ Demontage Spindelmotor",
+          "level": 1,
+          "id": "12.4-10"
+        },
+        {
+          "title": "Antriebseinheit (Riemenantrieb)",
+          "level": 1,
+          "id": "12.4-11"
+        },
+        {
+          "title": "* Riemenspannung einstellen",
+          "level": 1,
+          "id": "12.4-12"
+        },
+        {
+          "title": "* Spanneinheit überholen",
+          "level": 1,
+          "id": "12.4-13"
+        },
+        {
+          "title": "Schmierung",
+          "level": 1,
+          "id": "12.4-14"
+        },
+        {
+          "title": "* Funktionsprinzip",
+          "level": 1,
+          "id": "12.4-15"
+        },
+        {
+          "title": "* Einstellung der Schmiermenge",
+          "level": 1,
+          "id": "12.4-16"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "12.4-17"
+        }
+      ]
+    },
+    {
+      "code": "12.5",
+      "title": "IZUMI Grinding- Steuerung",
+      "sheet": "12.5 IZUMI Grinding- Steuerung",
+      "category": "Barcodereader Scanner",
+      "level": 1,
+      "units": [
+        {
+          "title": "CNC Steuerung",
+          "level": 1,
+          "id": "12.5-1"
+        },
+        {
+          "title": "* SRAM Backup",
+          "level": 1,
+          "id": "12.5-2"
+        },
+        {
+          "title": "* FROM Backup",
+          "level": 1,
+          "id": "12.5-3"
+        },
+        {
+          "title": "FANUC PMC",
+          "level": 1,
+          "id": "12.5-4"
+        },
+        {
+          "title": "* PMC Programm sichern",
+          "level": 1,
+          "id": "12.5-5"
+        },
+        {
+          "title": "* PMC Parameter sichern",
+          "level": 1,
+          "id": "12.5-6"
+        },
+        {
+          "title": "* Ladder an der Steuerung öffnen",
+          "level": 1,
+          "id": "12.5-7"
+        },
+        {
+          "title": "* Fehlersuche im Ladder",
+          "level": 1,
+          "id": "12.5-8"
+        },
+        {
+          "title": "* Signal Trace-Funktion nutzen",
+          "level": 1,
+          "id": "12.5-9"
+        },
+        {
+          "title": "* PMC Programm bearbeiten/ändern",
+          "level": 1,
+          "id": "12.5-10"
+        },
+        {
+          "title": "* PMC Programm nach Änderung aufspielen",
+          "level": 1,
+          "id": "12.5-11"
+        },
+        {
+          "title": "* FROM schreiben",
+          "level": 1,
+          "id": "12.5-12"
+        },
+        {
+          "title": "NC-Programme",
+          "level": 1,
+          "id": "12.5-13"
+        },
+        {
+          "title": "* Programmzeilen im MDI-Modus ausführen",
+          "level": 1,
+          "id": "12.5-14"
+        },
+        {
+          "title": "* NC-Programme/Befehle verstehen",
+          "level": 1,
+          "id": "12.5-15"
+        },
+        {
+          "title": "* NC-Programme ändern",
+          "level": 1,
+          "id": "12.5-16"
+        },
+        {
+          "title": "* Fehlersuche in NC-Programmen",
+          "level": 1,
+          "id": "12.5-17"
+        },
+        {
+          "title": "* NC-Programme schreiben",
+          "level": 1,
+          "id": "12.5-18"
+        },
+        {
+          "title": "Reparatur",
+          "level": 1,
+          "id": "12.5-19"
+        },
+        {
+          "title": "* Servoamplifier tauschen",
+          "level": 1,
+          "id": "12.5-20"
+        },
+        {
+          "title": "* Lüfter der Amplifier tauschen",
+          "level": 1,
+          "id": "12.5-21"
+        },
+        {
+          "title": "* NC-Steuerung tauschen",
+          "level": 1,
+          "id": "12.5-22"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "12.5-23"
+        }
+      ]
+    },
+    {
+      "code": "14.1",
+      "title": "Accretech-Messsysteme",
+      "sheet": "14.1 Accretech-Messsysteme",
+      "category": "Predictive-TPM",
+      "level": 1,
+      "units": [
+        {
+          "title": "Tool RunOut Controller",
+          "level": 1,
+          "id": "14.1-1"
+        },
+        {
+          "title": "* Funktionsweise (Was wird damit gemacht? Wie?)",
+          "level": 1,
+          "id": "14.1-2"
+        },
+        {
+          "title": "* mit Controller verbinden",
+          "level": 1,
+          "id": "14.1-3"
+        },
+        {
+          "title": "* Parameter einstellen",
+          "level": 1,
+          "id": "14.1-4"
+        },
+        {
+          "title": "* Controllertypen unterscheiden",
+          "level": 1,
+          "id": "14.1-5"
+        },
+        {
+          "title": "* Sensorabstand einstellen",
+          "level": 1,
+          "id": "14.1-6"
+        },
+        {
+          "title": "* Sensor abgleichen (Was ist zu beachten?)",
+          "level": 1,
+          "id": "14.1-7"
+        },
+        {
+          "title": "* Sensor tauschen",
+          "level": 1,
+          "id": "14.1-8"
+        },
+        {
+          "title": "* Controller tauschen",
+          "level": 1,
+          "id": "14.1-9"
+        },
+        {
+          "title": "* Messwerte mitloggen",
+          "level": 1,
+          "id": "14.1-10"
+        },
+        {
+          "title": "* Messwerte beurteilen (Was kann sein?)",
+          "level": 1,
+          "id": "14.1-11"
+        },
+        {
+          "title": "Pulcom Controller",
+          "level": 1,
+          "id": "14.1-12"
+        },
+        {
+          "title": "* Bedienung Controller (Wo ist welches Menü?)",
+          "level": 1,
+          "id": "14.1-13"
+        },
+        {
+          "title": "* \"Condition File\" sichern/aufspielen",
+          "level": 1,
+          "id": "14.1-14"
+        },
+        {
+          "title": "* Parameter  (Offset, Grenzen,…)",
+          "level": 1,
+          "id": "14.1-15"
+        },
+        {
+          "title": "* Messsteuerung an extern (erklären)",
+          "level": 1,
+          "id": "14.1-16"
+        },
+        {
+          "title": "* Was für Messtaster gibt es? (Zange, Einzel, Luft)",
+          "level": 1,
+          "id": "14.1-17"
+        },
+        {
+          "title": "* Gegenmessung mit Q-Check",
+          "level": 1,
+          "id": "14.1-18"
+        },
+        {
+          "title": "* Messzange nullen",
+          "level": 1,
+          "id": "14.1-19"
+        },
+        {
+          "title": "* Messwandler \"Luft - Analog\" nullen (mit und ohne Luft)",
+          "level": 1,
+          "id": "14.1-20"
+        },
+        {
+          "title": "* Einzelmesstaster nullen (FH1040)",
+          "level": 1,
+          "id": "14.1-21"
+        },
+        {
+          "title": "* Messtaster kalibrieren",
+          "level": 1,
+          "id": "14.1-22"
+        },
+        {
+          "title": "* Verstärkungsfaktor bewerten (nach Kalibrierung)",
+          "level": 1,
+          "id": "14.1-23"
+        },
+        {
+          "title": "* Controller richtig konfigurieren (Hardware)",
+          "level": 1,
+          "id": "14.1-24"
+        },
+        {
+          "title": "* Controller - richtige Firmware installiern",
+          "level": 1,
+          "id": "14.1-25"
+        },
+        {
+          "title": "* Messprobleme analysieren",
+          "level": 1,
+          "id": "14.1-26"
+        },
+        {
+          "title": "* Eingangskarten Signalqualität bewerten",
+          "level": 1,
+          "id": "14.1-27"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "14.1-28"
+        }
+      ]
+    },
+    {
+      "code": "15.1",
+      "title": "Grundlagen Shotblast",
+      "sheet": "15.1 Grundlagen Shotblast",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Allgemein",
+          "level": 1,
+          "id": "15.1-1"
+        },
+        {
+          "title": "* Funktionsweise (Wie läuft was ab?)",
+          "level": 1,
+          "id": "15.1-2"
+        },
+        {
+          "title": "* \"Ex-Bereich\" (nur Strahlkammer in Betrieb oder bei Staubaufwirbelung)",
+          "level": 1,
+          "id": "15.1-3"
+        },
+        {
+          "title": "Schleuderräder (Impeller)",
+          "level": 1,
+          "id": "15.1-4"
+        },
+        {
+          "title": "* allgemeiner Aufbau",
+          "level": 1,
+          "id": "15.1-5"
+        },
+        {
+          "title": "* Bauteile austauschen",
+          "level": 1,
+          "id": "15.1-6"
+        },
+        {
+          "title": "* Strahlmittelmenge über Buckinggate einstellen",
+          "level": 1,
+          "id": "15.1-7"
+        },
+        {
+          "title": "* kompletten Impeller tauschen",
+          "level": 1,
+          "id": "15.1-8"
+        },
+        {
+          "title": "* Riemenscheiben ausrichten",
+          "level": 1,
+          "id": "15.1-9"
+        },
+        {
+          "title": "* Riemen spannen",
+          "level": 1,
+          "id": "15.1-10"
+        },
+        {
+          "title": "* Antriebswelle neu lagern",
+          "level": 1,
+          "id": "15.1-11"
+        },
+        {
+          "title": "* Verschleißbewertung",
+          "level": 1,
+          "id": "15.1-12"
+        },
+        {
+          "title": "\"Rundtisch\"",
+          "level": 1,
+          "id": "15.1-13"
+        },
+        {
+          "title": "* Aufbau und Funktionsweise",
+          "level": 1,
+          "id": "15.1-14"
+        },
+        {
+          "title": "* Rotation Device",
+          "level": 1,
+          "id": "15.1-15"
+        },
+        {
+          "title": "* Justierung Stopposition",
+          "level": 1,
+          "id": "15.1-16"
+        },
+        {
+          "title": "Strahlkammer",
+          "level": 1,
+          "id": "15.1-17"
+        },
+        {
+          "title": "* Austausch Verschleißteile",
+          "level": 1,
+          "id": "15.1-18"
+        },
+        {
+          "title": "Strahlmitteltransport",
+          "level": 1,
+          "id": "15.1-19"
+        },
+        {
+          "title": "* Einstellung Bandlauf \"Bucking Elevator\"",
+          "level": 1,
+          "id": "15.1-20"
+        },
+        {
+          "title": "* Austausch Band \"Bucking Elevator\"",
+          "level": 1,
+          "id": "15.1-21"
+        },
+        {
+          "title": "* Demontage/Montage der Förderschnecken",
+          "level": 1,
+          "id": "15.1-22"
+        },
+        {
+          "title": "* Funktionsweise \"Windsichtung\"",
+          "level": 1,
+          "id": "15.1-23"
+        },
+        {
+          "title": "Absaugung",
+          "level": 1,
+          "id": "15.1-24"
+        },
+        {
+          "title": "* Funktionsweise",
+          "level": 1,
+          "id": "15.1-25"
+        },
+        {
+          "title": "* notwendige Einstellungen",
+          "level": 1,
+          "id": "15.1-26"
+        },
+        {
+          "title": "* Explosionsschutzanlage \"FIKE\"",
+          "level": 1,
+          "id": "15.1-27"
+        },
+        {
+          "title": "* Zellradschleuse",
+          "level": 1,
+          "id": "15.1-28"
+        },
+        {
+          "title": "* Unterdrucküberwachung",
+          "level": 1,
+          "id": "15.1-29"
+        },
+        {
+          "title": "Austausch komplette Strahlanlage (Retrofit)",
+          "level": 1,
+          "id": "15.1-30"
+        },
+        {
+          "title": "TPM",
+          "level": 1,
+          "id": "15.1-31"
+        },
+        {
+          "title": "* Abschmieren der Impellerwelle Imp 1",
+          "level": 1,
+          "id": "15.1-32"
+        },
+        {
+          "title": "* Austausch der Passschrauben an 2 Booking gate's",
+          "level": 1,
+          "id": "15.1-33"
+        },
+        {
+          "title": "* Bremsen der Motoren Prüfen",
+          "level": 1,
+          "id": "15.1-34"
+        },
+        {
+          "title": "* Dichtung Turn table tauschen",
+          "level": 1,
+          "id": "15.1-35"
+        },
+        {
+          "title": "* Kontrolle Impeller 1+2 und Hexagon Cup Nut, Austausch Verschleißteile",
+          "level": 1,
+          "id": "15.1-36"
+        },
+        {
+          "title": "* Kontrolle Absaugleitungen Nederman",
+          "level": 1,
+          "id": "15.1-37"
+        },
+        {
+          "title": "* Kontrolle des Elevators",
+          "level": 1,
+          "id": "15.1-38"
+        },
+        {
+          "title": "* Kontrolle Screw conveyo",
+          "level": 1,
+          "id": "15.1-39"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "15.1-40"
+        }
+      ]
+    },
+    {
+      "code": "16.1",
+      "title": "Yamaha - Mechanik",
+      "sheet": "16.1 Yamaha - Mechanik",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "* Aufbau der Achsen",
+          "level": 1,
+          "id": "16.1-1"
+        },
+        {
+          "title": "* Transportriemen tauschen",
+          "level": 1,
+          "id": "16.1-2"
+        },
+        {
+          "title": "* Antriebsriemen tauschen",
+          "level": 1,
+          "id": "16.1-3"
+        },
+        {
+          "title": "* Lagerungen überholen",
+          "level": 1,
+          "id": "16.1-4"
+        },
+        {
+          "title": "* LM-Guides tauschen",
+          "level": 1,
+          "id": "16.1-5"
+        },
+        {
+          "title": "* Getriebe tauschen (Y-Achse)",
+          "level": 1,
+          "id": "16.1-6"
+        },
+        {
+          "title": "* komplette Achse tauschen",
+          "level": 1,
+          "id": "16.1-7"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "16.1-8"
+        }
+      ]
+    },
+    {
+      "code": "16.2",
+      "title": "Yamaha - Steuerung",
+      "sheet": "16.2 Yamaha - Steuerung",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "1-Achssystem",
+          "level": 1,
+          "id": "16.2-1"
+        },
+        {
+          "title": "* mit Controller verbinden",
+          "level": 1,
+          "id": "16.2-2"
+        },
+        {
+          "title": "* Datensicherung erstellen/ aufspielen",
+          "level": 1,
+          "id": "16.2-3"
+        },
+        {
+          "title": "* Punkte ändern",
+          "level": 1,
+          "id": "16.2-4"
+        },
+        {
+          "title": "* Bedienung mit Handbedienpanel",
+          "level": 1,
+          "id": "16.2-5"
+        },
+        {
+          "title": "* Punkte teachen",
+          "level": 1,
+          "id": "16.2-6"
+        },
+        {
+          "title": "* Controller tauschen",
+          "level": 1,
+          "id": "16.2-7"
+        },
+        {
+          "title": "* DeviceNet Karte tauschen",
+          "level": 1,
+          "id": "16.2-8"
+        },
+        {
+          "title": "* Umbau auf neuen Controller (Abkündigung)",
+          "level": 1,
+          "id": "16.2-9"
+        },
+        {
+          "title": "2-Achssystem",
+          "level": 1,
+          "id": "16.2-10"
+        },
+        {
+          "title": "Mehrachssystem",
+          "level": 1,
+          "id": "16.2-11"
+        },
+        {
+          "title": "Allgemein",
+          "level": 1,
+          "id": "16.2-12"
+        },
+        {
+          "title": "* Kabelbaum tauschen (richtige Kabel finden)",
+          "level": 1,
+          "id": "16.2-13"
+        },
+        {
+          "title": "* Homing durchführen",
+          "level": 1,
+          "id": "16.2-14"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "16.2-15"
+        }
+      ]
+    },
+    {
+      "code": "17.1",
+      "title": "AGV Meidensha",
+      "sheet": "17.1 AGV Meidensha",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Allgemeines",
+          "level": 1,
+          "id": "17.1-1"
+        },
+        {
+          "title": "* Wie funktioniert das System? (feste Routen, WLAN, Kommunikation mit den Stationen)",
+          "level": 1,
+          "id": "17.1-2"
+        },
+        {
+          "title": "* Batteriehandling",
+          "level": 1,
+          "id": "17.1-3"
+        },
+        {
+          "title": "* Wo ist was verbaut? (Hauptsteuerung, Access Points)",
+          "level": 1,
+          "id": "17.1-4"
+        },
+        {
+          "title": "* Wo ist was verbaut am Fahrzeug?",
+          "level": 1,
+          "id": "17.1-5"
+        },
+        {
+          "title": "Bedienung",
+          "level": 1,
+          "id": "17.1-6"
+        },
+        {
+          "title": "* Fahrzeug von Hand verfahren",
+          "level": 1,
+          "id": "17.1-7"
+        },
+        {
+          "title": "* Erklärung Bedienpanel und Anzeigen",
+          "level": 1,
+          "id": "17.1-8"
+        },
+        {
+          "title": "* Routen eingeben",
+          "level": 1,
+          "id": "17.1-9"
+        },
+        {
+          "title": "Antrieb",
+          "level": 1,
+          "id": "17.1-10"
+        },
+        {
+          "title": "* Antriebsmotor tauschen",
+          "level": 1,
+          "id": "17.1-11"
+        },
+        {
+          "title": "* Lenkmotor tauschen",
+          "level": 1,
+          "id": "17.1-12"
+        },
+        {
+          "title": "* komplette Antriebseinheit tauschen",
+          "level": 1,
+          "id": "17.1-13"
+        },
+        {
+          "title": "* Lenkwinkelpotentiometer einstellen",
+          "level": 1,
+          "id": "17.1-14"
+        },
+        {
+          "title": "Steuerung",
+          "level": 1,
+          "id": "17.1-15"
+        },
+        {
+          "title": "* Backup erstellen mit Software",
+          "level": 1,
+          "id": "17.1-16"
+        },
+        {
+          "title": "* Backup aufspielen nach Boardtausch (MGX-01)",
+          "level": 1,
+          "id": "17.1-17"
+        },
+        {
+          "title": "* \"Route Data\" herunterladen/aufspielen",
+          "level": 1,
+          "id": "17.1-18"
+        },
+        {
+          "title": "* \"Route Data\" verstehen",
+          "level": 1,
+          "id": "17.1-19"
+        },
+        {
+          "title": "* \"Route Data\" anpassen",
+          "level": 1,
+          "id": "17.1-20"
+        },
+        {
+          "title": "* Einstellung Radarsensor",
+          "level": 1,
+          "id": "17.1-21"
+        },
+        {
+          "title": "Sonstiges",
+          "level": 1,
+          "id": "17.1-22"
+        },
+        {
+          "title": "* Softbumper tauschen",
+          "level": 1,
+          "id": "17.1-23"
+        },
+        {
+          "title": "* Softbumper aufarbeiten",
+          "level": 1,
+          "id": "17.1-24"
+        },
+        {
+          "title": "TPM",
+          "level": 1,
+          "id": "17.1-25"
+        },
+        {
+          "title": "* Bremsspalt des Antriebsmotors überprüfen",
+          "level": 1,
+          "id": "17.1-26"
+        },
+        {
+          "title": "* Überprüfung Obstacle sensor",
+          "level": 1,
+          "id": "17.1-27"
+        },
+        {
+          "title": "* Überprüfung Soft bumper",
+          "level": 1,
+          "id": "17.1-28"
+        },
+        {
+          "title": "* Verschleiß der Bürsten des Antriebsmotors überprüfen",
+          "level": 1,
+          "id": "17.1-29"
+        },
+        {
+          "title": "* Austausch Backup Batterie - OMRON SPS",
+          "level": 1,
+          "id": "17.1-30"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "17.1-31"
+        }
+      ]
+    },
+    {
+      "code": "18.1",
+      "title": "FTF MLR",
+      "sheet": "18.1 FTF MLR",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Allgemeines",
+          "level": 1,
+          "id": "18.1-1"
+        },
+        {
+          "title": "* Wie funktioniert das ganze System? (Leitrechner, Auftragsverwaltung, Blockung, Ladezyklen)",
+          "level": 1,
+          "id": "18.1-2"
+        },
+        {
+          "title": "* Wo sind welche Bauteile zu finden? (Leitrechner, Buswandler,…)",
+          "level": 1,
+          "id": "18.1-3"
+        },
+        {
+          "title": "* Wie funktioniert die Navigation",
+          "level": 1,
+          "id": "18.1-4"
+        },
+        {
+          "title": "Bedienung",
+          "level": 1,
+          "id": "18.1-5"
+        },
+        {
+          "title": "* Fahrzeug über Fernsteuerung verfahren",
+          "level": 1,
+          "id": "18.1-6"
+        },
+        {
+          "title": "* manuellen Fahrauftrag über Leitrechner erzeugen",
+          "level": 1,
+          "id": "18.1-7"
+        },
+        {
+          "title": "* \"Error Log\" (Zip-File) am Fahrzeug erstellen",
+          "level": 1,
+          "id": "18.1-8"
+        },
+        {
+          "title": "* weitere Menüs am Display erklären",
+          "level": 1,
+          "id": "18.1-9"
+        },
+        {
+          "title": "* Fahrzeug \"Aufsetzen\"",
+          "level": 1,
+          "id": "18.1-10"
+        },
+        {
+          "title": "Komponenten (Wo verbaut?, Welche Funktion?)",
+          "level": 1,
+          "id": "18.1-11"
+        },
+        {
+          "title": "Fahr/Lenkantrieb",
+          "level": 1,
+          "id": "18.1-12"
+        },
+        {
+          "title": "Sick Personenschutzscanner",
+          "level": 1,
+          "id": "18.1-13"
+        },
+        {
+          "title": "Inverter",
+          "level": 1,
+          "id": "18.1-14"
+        },
+        {
+          "title": "mBox",
+          "level": 1,
+          "id": "18.1-15"
+        },
+        {
+          "title": "mBoxGO",
+          "level": 1,
+          "id": "18.1-16"
+        },
+        {
+          "title": "mBoxIO",
+          "level": 1,
+          "id": "18.1-17"
+        },
+        {
+          "title": "Sick Sicherheits SPS",
+          "level": 1,
+          "id": "18.1-18"
+        },
+        {
+          "title": "Gyro Sensor",
+          "level": 1,
+          "id": "18.1-19"
+        },
+        {
+          "title": "Messräder (Hinterräder = Navigation ; Antriebsrad = Feldumschaltung Sicherheitsscanner)",
+          "level": 1,
+          "id": "18.1-20"
+        },
+        {
+          "title": "WLAN Bridge",
+          "level": 1,
+          "id": "18.1-21"
+        },
+        {
+          "title": "* Online gehen auf Sickscanner",
+          "level": 1,
+          "id": "18.1-22"
+        },
+        {
+          "title": "* Datensicherung erstellen/aufspielen",
+          "level": 1,
+          "id": "18.1-23"
+        },
+        {
+          "title": "* aktuelle Erkennung auswerten (Kratzer, Schmutz,…)",
+          "level": 1,
+          "id": "18.1-24"
+        },
+        {
+          "title": "* Scanner tauschen",
+          "level": 1,
+          "id": "18.1-25"
+        },
+        {
+          "title": "* Scannerfelder (unterschiedliche Geschwindigkeiten; Welcher Sensor für Umschaltung verwendet?)",
+          "level": 1,
+          "id": "18.1-26"
+        },
+        {
+          "title": "Fahr-/Lenkantrieb",
+          "level": 1,
+          "id": "18.1-27"
+        },
+        {
+          "title": "* Lenkwinkelgeber tauschen",
+          "level": 1,
+          "id": "18.1-28"
+        },
+        {
+          "title": "* Encoder Fahrantrieb tauschen",
+          "level": 1,
+          "id": "18.1-29"
+        },
+        {
+          "title": "* Fahrantrieb komplett tauschen",
+          "level": 1,
+          "id": "18.1-30"
+        },
+        {
+          "title": "* Bremse überprüfen",
+          "level": 1,
+          "id": "18.1-31"
+        },
+        {
+          "title": "Inverter (Fahrantrieb, Lenkantrieb, Bandantrieb)",
+          "level": 1,
+          "id": "18.1-32"
+        },
+        {
+          "title": "* Inverter parametrieren",
+          "level": 1,
+          "id": "18.1-33"
+        },
+        {
+          "title": "* Inverter tauschen",
+          "level": 1,
+          "id": "18.1-34"
+        },
+        {
+          "title": "* Verbindung über Total Commander herstellen",
+          "level": 1,
+          "id": "18.1-35"
+        },
+        {
+          "title": "* Datensicherung durchführen",
+          "level": 1,
+          "id": "18.1-36"
+        },
+        {
+          "title": "* LogFiles auslesen und bewerten",
+          "level": 1,
+          "id": "18.1-37"
+        },
+        {
+          "title": "* Imageerstellung von Cfast Speicherkarte",
+          "level": 1,
+          "id": "18.1-38"
+        },
+        {
+          "title": "* mBox austauschen",
+          "level": 1,
+          "id": "18.1-39"
+        },
+        {
+          "title": "Sick-Sicherheits SPS",
+          "level": 1,
+          "id": "18.1-40"
+        },
+        {
+          "title": "* Verbindung zur SPS herstellen",
+          "level": 1,
+          "id": "18.1-41"
+        },
+        {
+          "title": "* Datensicherung erstellen",
+          "level": 1,
+          "id": "18.1-42"
+        },
+        {
+          "title": "* Eingangssignale beobachten",
+          "level": 1,
+          "id": "18.1-43"
+        },
+        {
+          "title": "Ladegeräte",
+          "level": 1,
+          "id": "18.1-44"
+        },
+        {
+          "title": "* Daten auslesen",
+          "level": 1,
+          "id": "18.1-45"
+        },
+        {
+          "title": "* Hardware tauschen",
+          "level": 1,
+          "id": "18.1-46"
+        },
+        {
+          "title": "* Ladekurve aufspielen",
+          "level": 1,
+          "id": "18.1-47"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "18.1-48"
+        }
+      ]
+    },
+    {
+      "code": "18.2",
+      "title": "FTF MLR",
+      "sheet": "18.2 FTF MLR",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Fahrzeuge abgleichen",
+          "level": 1,
+          "id": "18.2-1"
+        },
+        {
+          "title": "* Nullung Lenkwinkelgeber",
+          "level": 1,
+          "id": "18.2-2"
+        },
+        {
+          "title": "* Lenkwinkeloffset durchführen",
+          "level": 1,
+          "id": "18.2-3"
+        },
+        {
+          "title": "* Abgleich Batterieüberwachung",
+          "level": 1,
+          "id": "18.2-4"
+        },
+        {
+          "title": "* Geschwindigkeitsabgleich (ka_move)",
+          "level": 1,
+          "id": "18.2-5"
+        },
+        {
+          "title": "* Abgleich Encoder Hinterachse",
+          "level": 1,
+          "id": "18.2-6"
+        },
+        {
+          "title": "* Abgleich Encoder Antriebsrad",
+          "level": 1,
+          "id": "18.2-7"
+        },
+        {
+          "title": "TPM",
+          "level": 1,
+          "id": "18.2-8"
+        },
+        {
+          "title": "* Austausch Bremsschütz Q4",
+          "level": 1,
+          "id": "18.2-9"
+        },
+        {
+          "title": "* Wartung FTF",
+          "level": 1,
+          "id": "18.2-10"
+        },
+        {
+          "title": "* Austausch der Batterie",
+          "level": 1,
+          "id": "18.2-11"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "18.2-12"
+        }
+      ]
+    },
+    {
+      "code": "19.1",
+      "title": "FTF Bleichert",
+      "sheet": "19.1 FTF Bleichert",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Allgemeines",
+          "level": 1,
+          "id": "19.1-1"
+        },
+        {
+          "title": "* Wie funktioniert das ganze System? (Leitrechner, Auftragsverwaltung, Blockung, Ladezyklen)",
+          "level": 1,
+          "id": "19.1-2"
+        },
+        {
+          "title": "* Wo sind welche Bauteile zu finden? (Leitrechner)",
+          "level": 1,
+          "id": "19.1-3"
+        },
+        {
+          "title": "* Wie funktioniert die Navigation",
+          "level": 1,
+          "id": "19.1-4"
+        },
+        {
+          "title": "Bedienung",
+          "level": 1,
+          "id": "19.1-5"
+        },
+        {
+          "title": "* Fahrzeug über Browser (Tablet bzw. PC) verfahren",
+          "level": 1,
+          "id": "19.1-6"
+        },
+        {
+          "title": "* manuellen Fahrauftrag über Leitrechner erzeugen",
+          "level": 1,
+          "id": "19.1-7"
+        },
+        {
+          "title": "* Menüs am Display erklären",
+          "level": 1,
+          "id": "19.1-8"
+        },
+        {
+          "title": "* Fahrzeug \"Aufsetzen\"",
+          "level": 1,
+          "id": "19.1-9"
+        },
+        {
+          "title": "* Handbedienung/ Diagnose Rollenantrieb",
+          "level": 1,
+          "id": "19.1-10"
+        },
+        {
+          "title": "Komponenten (Wo verbaut?, Welche Funktion?)",
+          "level": 1,
+          "id": "19.1-11"
+        },
+        {
+          "title": "Fahr/Lenkantriebe",
+          "level": 1,
+          "id": "19.1-12"
+        },
+        {
+          "title": "Leuze Personenschutzscanner",
+          "level": 1,
+          "id": "19.1-13"
+        },
+        {
+          "title": "Sick Objekterkennungssensor",
+          "level": 1,
+          "id": "19.1-14"
+        },
+        {
+          "title": "Siemens SPS",
+          "level": 1,
+          "id": "19.1-15"
+        },
+        {
+          "title": "IPC (Industrie PC)",
+          "level": 1,
+          "id": "19.1-16"
+        },
+        {
+          "title": "Inverter für Antriebe",
+          "level": 1,
+          "id": "19.1-17"
+        },
+        {
+          "title": "Verschiebeeinheit Rollenbahn",
+          "level": 1,
+          "id": "19.1-18"
+        },
+        {
+          "title": "Antriebsrollencontroller",
+          "level": 1,
+          "id": "19.1-19"
+        },
+        {
+          "title": "WLAN Modul",
+          "level": 1,
+          "id": "19.1-20"
+        },
+        {
+          "title": "* Online gehen auf Leuzescanner",
+          "level": 1,
+          "id": "19.1-21"
+        },
+        {
+          "title": "* Datensicherung erstellen/aufspielen",
+          "level": 1,
+          "id": "19.1-22"
+        },
+        {
+          "title": "* Livedaten auswerten (Kratzer, Schmutz,…)",
+          "level": 1,
+          "id": "19.1-23"
+        },
+        {
+          "title": "* Scanner tauschen",
+          "level": 1,
+          "id": "19.1-24"
+        },
+        {
+          "title": "* Scannerfelder (unterschiedliche Geschwindigkeiten; Welcher Sensor für Umschaltung verwendet?)",
+          "level": 1,
+          "id": "19.1-25"
+        },
+        {
+          "title": "* Navigationsdaten ansehen (Navitrol Monitor)",
+          "level": 1,
+          "id": "19.1-26"
+        },
+        {
+          "title": "* Online gehen auf Scanner",
+          "level": 1,
+          "id": "19.1-27"
+        },
+        {
+          "title": "* Datensicherung erstellen/ aufspielen",
+          "level": 1,
+          "id": "19.1-28"
+        },
+        {
+          "title": "Fahr-/Lenkantrieb",
+          "level": 1,
+          "id": "19.1-29"
+        },
+        {
+          "title": "* Lenkwinkelgeber tauschen",
+          "level": 1,
+          "id": "19.1-30"
+        },
+        {
+          "title": "* Encoder Fahrantrieb tauschen",
+          "level": 1,
+          "id": "19.1-31"
+        },
+        {
+          "title": "* Fahrantrieb komplett tauschen",
+          "level": 1,
+          "id": "19.1-32"
+        },
+        {
+          "title": "* Bremse überprüfen",
+          "level": 1,
+          "id": "19.1-33"
+        },
+        {
+          "title": "Inverter (Fahrantriebe, Lenkantriebe)",
+          "level": 1,
+          "id": "19.1-34"
+        },
+        {
+          "title": "* Inverter parametrieren",
+          "level": 1,
+          "id": "19.1-35"
+        },
+        {
+          "title": "* Inverter tauschen",
+          "level": 1,
+          "id": "19.1-36"
+        },
+        {
+          "title": "IPC",
+          "level": 1,
+          "id": "19.1-37"
+        },
+        {
+          "title": "* Verbindung über FTP herstellen",
+          "level": 1,
+          "id": "19.1-38"
+        },
+        {
+          "title": "* Datensicherung durchführen",
+          "level": 1,
+          "id": "19.1-39"
+        },
+        {
+          "title": "* LogFiles auslesen und bewerten (Navitroll-Software)",
+          "level": 1,
+          "id": "19.1-40"
+        },
+        {
+          "title": "* IPC austauschen",
+          "level": 1,
+          "id": "19.1-41"
+        },
+        {
+          "title": "* Verbindung zur SPS herstellen",
+          "level": 1,
+          "id": "19.1-42"
+        },
+        {
+          "title": "* Datensicherung erstellen",
+          "level": 1,
+          "id": "19.1-43"
+        },
+        {
+          "title": "* Eingangssignale beobachten",
+          "level": 1,
+          "id": "19.1-44"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "19.1-45"
+        }
+      ]
+    },
+    {
+      "code": "19.2",
+      "title": "FTF Bleichert",
+      "sheet": "19.2 FTF Bleichert",
+      "category": "Allgemein",
+      "level": 1,
+      "units": [
+        {
+          "title": "Antriebsrollencontroller",
+          "level": 1,
+          "id": "19.2-1"
+        },
+        {
+          "title": "* Verbindung zum Interrollcontroller herstellen",
+          "level": 1,
+          "id": "19.2-2"
+        },
+        {
+          "title": "* Parametrierung Controller",
+          "level": 1,
+          "id": "19.2-3"
+        },
+        {
+          "title": "WLAN-Modul",
+          "level": 1,
+          "id": "19.2-4"
+        },
+        {
+          "title": "* Parametrierung",
+          "level": 1,
+          "id": "19.2-5"
+        },
+        {
+          "title": "* Kontrolle Signalqualität",
+          "level": 1,
+          "id": "19.2-6"
+        },
+        {
+          "title": "Fahrzeuge abgleichen",
+          "level": 1,
+          "id": "19.2-7"
+        },
+        {
+          "title": "* Nullung Lenkwinkelgeber",
+          "level": 1,
+          "id": "19.2-8"
+        },
+        {
+          "title": "* Lenkwinkeloffset durchführen",
+          "level": 1,
+          "id": "19.2-9"
+        },
+        {
+          "title": "* Analyse Batterieüberwachung",
+          "level": 1,
+          "id": "19.2-10"
+        },
+        {
+          "title": "* Geschwindigkeitsabgleich",
+          "level": 1,
+          "id": "19.2-11"
+        },
+        {
+          "title": "TPM",
+          "level": 1,
+          "id": "19.2-12"
+        },
+        {
+          "title": "Leitrechner",
+          "level": 1,
+          "id": "19.2-13"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "19.2-14"
+        }
+      ]
+    },
+    {
+      "code": "20.1",
+      "title": "Predictive",
+      "sheet": "20.1 Predictive",
+      "category": "Predictive-TPM",
+      "level": 1,
+      "units": [
+        {
+          "title": "Renishaw - Kreisformtest",
+          "level": 1,
+          "id": "20.1-1"
+        },
+        {
+          "title": "* Messung durchführen",
+          "level": 1,
+          "id": "20.1-2"
+        },
+        {
+          "title": "* \"Prozessflow\" Renishawauswertung",
+          "level": 1,
+          "id": "20.1-3"
+        },
+        {
+          "title": "* Messung auswerten (Ampelsystem =>ggf. E-Mail an Produktion)",
+          "level": 1,
+          "id": "20.1-4"
+        },
+        {
+          "title": "* detailierte Auswertung der Messergebnisse (Fehlerursache)",
+          "level": 1,
+          "id": "20.1-5"
+        },
+        {
+          "title": "* Messpositionen an Maschinen anpassen",
+          "level": 1,
+          "id": "20.1-6"
+        },
+        {
+          "title": "* Messungen an neuen Maschinen einrichten",
+          "level": 1,
+          "id": "20.1-7"
+        },
+        {
+          "title": "Spindel-Einzugskraftmessung (OTT-Jakob)",
+          "level": 1,
+          "id": "20.1-8"
+        },
+        {
+          "title": "* Messung protokollieren",
+          "level": 1,
+          "id": "20.1-9"
+        },
+        {
+          "title": "SKF Quick Collect (Schwingungsmessung)",
+          "level": 1,
+          "id": "20.1-10"
+        },
+        {
+          "title": "* Messergebnisse bewerten/ Grenzen setzen",
+          "level": 1,
+          "id": "20.1-11"
+        },
+        {
+          "title": "Vibroport 80 Schwingungsmessung",
+          "level": 1,
+          "id": "20.1-12"
+        },
+        {
+          "title": "* Daten sammeln (festgelegte Routen)",
+          "level": 1,
+          "id": "20.1-13"
+        },
+        {
+          "title": "* Routen/ Messparameter erstellen",
+          "level": 1,
+          "id": "20.1-14"
+        },
+        {
+          "title": "* Messungen auswerten (Schadbilder erkennen)",
+          "level": 1,
+          "id": "20.1-15"
+        },
+        {
+          "title": "* individuelle Schwingungsmessungen durchführen (Fehlersuche)",
+          "level": 1,
+          "id": "20.1-16"
+        },
+        {
+          "title": "IBS Precision Spindle Check Analyzer",
+          "level": 1,
+          "id": "20.1-17"
+        },
+        {
+          "title": "* Messung in der Maschine durchführen",
+          "level": 1,
+          "id": "20.1-18"
+        },
+        {
+          "title": "* Messergebnisse bewerten",
+          "level": 1,
+          "id": "20.1-19"
+        },
+        {
+          "title": "CANBus View XL",
+          "level": 1,
+          "id": "20.1-20"
+        },
+        {
+          "title": "* Messungen durchführen",
+          "level": 1,
+          "id": "20.1-21"
+        },
+        {
+          "title": "* Maßnahmen aus Messergebnissen ableiten",
+          "level": 1,
+          "id": "20.1-22"
+        },
+        {
+          "title": "Fanuc Servo Guide",
+          "level": 1,
+          "id": "20.1-23"
+        },
+        {
+          "title": "* Standardmessungen durchführen (z.B. EGURO)",
+          "level": 1,
+          "id": "20.1-24"
+        },
+        {
+          "title": "* Messergebnisse bewerten (nach Standard)",
+          "level": 1,
+          "id": "20.1-25"
+        },
+        {
+          "title": "* Messergebnisse bewerten (Fehlersuche)",
+          "level": 1,
+          "id": "20.1-26"
+        },
+        {
+          "title": "* Auswertungsstandards definieren",
+          "level": 1,
+          "id": "20.1-27"
+        },
+        {
+          "title": "Wärmebildkamera (FLIR)",
+          "level": 1,
+          "id": "20.1-28"
+        },
+        {
+          "title": "* Messungen durchführen (richtige Einstellungen)",
+          "level": 1,
+          "id": "20.1-29"
+        },
+        {
+          "title": "* Messergebnisse bewerten (Fehlersuche /Analyse)",
+          "level": 1,
+          "id": "20.1-30"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "20.1-31"
+        }
+      ]
+    },
+    {
+      "code": "21.1",
+      "title": "Kamerasysteme Omron",
+      "sheet": "21.1 Kamerasysteme Omron",
+      "category": "Kamerasysteme Omron",
+      "level": 1,
+      "units": [
+        {
+          "title": "Bedienung Kamerasystem",
+          "level": 1,
+          "id": "21.1-1"
+        },
+        {
+          "title": "* Wechsel von Auto in Handmodus",
+          "level": 1,
+          "id": "21.1-2"
+        },
+        {
+          "title": "* Kamerabilder mitloggen (OK/NG)",
+          "level": 1,
+          "id": "21.1-3"
+        },
+        {
+          "title": "* Bearbeitungswerkzeuge Live ansehen",
+          "level": 1,
+          "id": "21.1-4"
+        },
+        {
+          "title": "* Datensicherung erstellen",
+          "level": 1,
+          "id": "21.1-5"
+        },
+        {
+          "title": "* Datensicherung aufspielen",
+          "level": 1,
+          "id": "21.1-6"
+        },
+        {
+          "title": "Anpassung Kamerasystem",
+          "level": 1,
+          "id": "21.1-7"
+        },
+        {
+          "title": "* Analyse mit Kamerasimulator durchführen",
+          "level": 1,
+          "id": "21.1-8"
+        },
+        {
+          "title": "* Kamerabilder bewerten + Maßnahmen ableiten",
+          "level": 1,
+          "id": "21.1-9"
+        },
+        {
+          "title": "* Bearbeitungswerkzeug für Fehlerkennung finden",
+          "level": 1,
+          "id": "21.1-10"
+        },
+        {
+          "title": "* Bearbeitungswerkzeuge anpassen",
+          "level": 1,
+          "id": "21.1-11"
+        },
+        {
+          "title": "* neue Werkstücke implementieren",
+          "level": 1,
+          "id": "21.1-12"
+        },
+        {
+          "title": "Beleuchtung",
+          "level": 1,
+          "id": "21.1-13"
+        },
+        {
+          "title": "* fehlerhafte Beleuchtung (Belichtung) erkennen",
+          "level": 1,
+          "id": "21.1-14"
+        },
+        {
+          "title": "* Beleuchtungsintensität anpassen",
+          "level": 1,
+          "id": "21.1-15"
+        },
+        {
+          "title": "Hardware",
+          "level": 1,
+          "id": "21.1-16"
+        },
+        {
+          "title": "* Kamera tauschen",
+          "level": 1,
+          "id": "21.1-17"
+        },
+        {
+          "title": "* Kameracontroller tauschen",
+          "level": 1,
+          "id": "21.1-18"
+        },
+        {
+          "title": "* Beleuchtung tauschen",
+          "level": 1,
+          "id": "21.1-19"
+        },
+        {
+          "title": "* Beleuchtungscontroller tauschen",
+          "level": 1,
+          "id": "21.1-20"
+        },
+        {
+          "title": "Schnittstelle Kamera/RB prüfen",
+          "level": 1,
+          "id": "21.1-21"
+        },
+        {
+          "title": "* ermittelte Positionsdaten von Kamera auslesen",
+          "level": 1,
+          "id": "21.1-22"
+        },
+        {
+          "title": "* Positionsdaten im RB überprüfen",
+          "level": 1,
+          "id": "21.1-23"
+        },
+        {
+          "title": "Summe",
+          "level": 1,
+          "id": "21.1-24"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Allgemein",
+    "Barcodereader Scanner",
+    "Kamerasysteme",
+    "Kamerasysteme Omron",
+    "Predictive-TPM",
+    "Roboter",
+    "Servoachsen",
+    "Steuerung"
+  ]
+}
