@@ -9,83 +9,83 @@
       "sheet": "1.1_Linienkenntnisse",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "AC1000"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "AC2000"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "C100"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P100"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "C200"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P200"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "C300"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P300"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P400"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "C500"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P500"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "C600"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P600"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P700"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "P800"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LO0010 (AGF)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LO4010 (Stopper cushion)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LO4020 (Containerpresse AGF)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LO5010 (U400)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LO5020 (AGF- Pressenhalle)"
         }
       ]
@@ -98,19 +98,19 @@
       "sheet": "1.2_Grundlagen Pneumatik",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Gefährdungen durch Pneumatik"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "SMC- Kurs Elektropneumatik"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Training an der SMC-Trainingsanlage"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Zylindertypen  kennenlernen (in TDDK verwendet)"
         },
         {
@@ -130,7 +130,7 @@
           "text": "Positionssensoren an Zylindern"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Pneumatikventile kennenlernen (in TDDK verwendet)"
         },
         {
@@ -150,15 +150,15 @@
           "text": "Prozessventile"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Arbeiten mit Pneumatikplänen (in TDDK verwendet)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Hydropneumatik (Anwendungsfälle in TDDK)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fehlersuche an pneumatischen Anlagen/ Baugruppen"
         }
       ]
@@ -171,15 +171,15 @@
       "sheet": "1.3_Grundlagen Hydraulik",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Gefährdungen durch Hydraulik"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Ablauf Schlauchwechsel (Hansaflex)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Hydraulikzylinder kennenlernen"
         },
         {
@@ -191,7 +191,7 @@
           "text": "Spannzylinder"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Hydraulikventile kennenlernen"
         },
         {
@@ -203,19 +203,19 @@
           "text": "Proportionalventile"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Arbeiten mit Hydraulikplänen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Hydraulikzylinder entlüften"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fehlersuche an hydraulischen Anlagen/ Baugruppen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Proportionalventile abgleichen"
         }
       ]
@@ -228,55 +228,55 @@
       "sheet": "1.4_Grundlagen Sensoren",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Induktive Sensoren (Typenunterschiede z.B. 2-Draht, PNP …)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Einweg-Lichtschranken (Sender/Empfänger)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Reflexions-Lichtschranke (Spiegel)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Reflexions-Lichttaster (direkte Objekterkennung)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Lichtschranken mit Lichtwellenleiter"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Laserabstandssensoren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "diverse Reedkontakte"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Druckschalter (Pneumatik/ Hydraulik/ KSS/…)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Rollenschalter"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Durchflusssensoren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Ultraschallsensoren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "kapazitive Sensoren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Füllstandssensoren (Widerstand)"
         }
       ]
@@ -289,7 +289,7 @@
       "sheet": "1.5_Grundlagen Visionsensoren",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Cognex Vision Sensor"
         },
         {
@@ -317,7 +317,7 @@
           "text": "neue Anwendungen implementieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Keyence Vision Sensor"
         }
       ]
@@ -330,7 +330,7 @@
       "sheet": "1.6_Sicherheitstechnik",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Sicherheitslichtschranken (z.B. Omron)"
         },
         {
@@ -350,7 +350,7 @@
           "text": "Muting (Warum?/Funktionsweise?/ Dongle)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sicherheitstürschalter"
         },
         {
@@ -362,7 +362,7 @@
           "text": "Typen (mit Zuhaltung /ohne Zuhaltung)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Not-Aus Relais"
         },
         {
@@ -378,7 +378,7 @@
           "text": "Fehlersuche"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sicherheitsrelais PNOZmulti (Firma: Pilz)"
         },
         {
@@ -390,7 +390,7 @@
           "text": "Softwarebedienung"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sicherheits SPS:"
         },
         {
@@ -415,7 +415,7 @@
       "sheet": "1.7_Grundlagen Elektrik",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Prüfprotokoll für elektrische Anlagen"
         },
         {
@@ -443,7 +443,7 @@
           "text": "FI Schutzschalter durchmessen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Messungen mit Oszilloskop"
         },
         {
@@ -455,7 +455,7 @@
           "text": "Messaufbau + Einstellungen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Verwendung von elektrischen Leitungen"
         },
         {
@@ -475,7 +475,7 @@
           "text": "Leitungsführung Kenntnisse (Einfluss Magnetfeld z.B.)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Arbeiten mit Schaltplänen"
         },
         {
@@ -500,7 +500,7 @@
       "sheet": "1.8_Grundlagen Messmittel",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "digitale Messschieber"
         },
         {
@@ -512,7 +512,7 @@
           "text": "Messung innen/aussen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "digitaler Tiefenmessschieber"
         },
         {
@@ -520,7 +520,7 @@
           "text": "Tiefen messen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Bügelmessschraube"
         },
         {
@@ -532,7 +532,7 @@
           "text": "Messung"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "digitale Tiefenmessschraube"
         },
         {
@@ -540,7 +540,7 @@
           "text": "Austausch Messstift"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Messuhren"
         },
         {
@@ -552,7 +552,7 @@
           "text": "Ablesung der Messwerte (Korrekturfaktoren,…)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Messungen mit Messuhren"
         },
         {
@@ -581,7 +581,7 @@
       "sheet": "1.9  maschinelle Zerspanung",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Bohren (Ständerbohrmaschine)"
         },
         {
@@ -601,7 +601,7 @@
           "text": "stumpfe Bohrer erkennen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Reiben (Ständerbohrmaschine)"
         },
         {
@@ -613,7 +613,7 @@
           "text": "richtiger Bearbeitungsablauf"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Schleifen ( Schleifbock)"
         },
         {
@@ -629,7 +629,7 @@
           "text": "richtiges Schleifen am Schleifbock"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Drehen (konventionell)"
         },
         {
@@ -649,7 +649,7 @@
           "text": "Außengewinde drehen (mit Drehmeißel)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Drehen (CNC)"
         },
         {
@@ -669,7 +669,7 @@
           "text": "Werkzeuge einmessen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fräsen (konventionell)"
         },
         {
@@ -689,11 +689,11 @@
           "text": "Taschenfräsen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fräsen (NC/CNC)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sägen-Kasto"
         },
         {
@@ -709,7 +709,7 @@
           "text": "richtigen Vorschub wählen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sägen-Bandsäge"
         },
         {
@@ -721,7 +721,7 @@
           "text": "sicher Sägen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Flachschleifmaschine"
         },
         {
@@ -758,7 +758,7 @@
       "sheet": "2.1_SPS-Omron",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron CX-Programmer (Basic 1)"
         },
         {
@@ -794,7 +794,7 @@
           "text": "Einrichten Datenaufzeichnung und Auswertung"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron CX-Programmer (Basic 2)"
         },
         {
@@ -822,7 +822,7 @@
           "text": "Baugruppen austauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron CX-Programmer (Fortgeschritten 1 => \"D-Speicher\")"
         },
         {
@@ -838,7 +838,7 @@
           "text": "Daten schieben"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron CX-Integrator (Fortgeschritten 2 => DeviceNet)"
         },
         {
@@ -862,7 +862,7 @@
           "text": "Baugruppen erweitern"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron CX-Integrator (Fortgeschritten 3 => Ethernet)"
         },
         {
@@ -870,7 +870,7 @@
           "text": "Netzwerkaufbau"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron CX-Programmer (Fortgeschritten 4 => Programmierung)"
         },
         {
@@ -878,7 +878,7 @@
           "text": "komplexe Programmerweiterungen (Implementierung neuer Komponenten z.B. Elektrogreifer)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron Sysmac-Studio (Basic 1)"
         },
         {
@@ -898,7 +898,7 @@
           "text": "Eingänge/ Ausgänge (variablen) suchen und beobachten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron Sysmac-Studio (Fortgeschritten 1)"
         },
         {
@@ -910,7 +910,7 @@
           "text": "Timer ändern"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron Sysmac-Studio (Fortgeschritten 2)"
         },
         {
@@ -926,7 +926,7 @@
           "text": "mit Funktionsbausteinen arbeiten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron Sysmac-Studio (Fortgeschritten 3 - EtherCat)"
         },
         {
@@ -947,7 +947,7 @@
       "sheet": "2.2_SPS-Siemens",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Step7 (Basic 1)"
         },
         {
@@ -983,7 +983,7 @@
           "text": "Funktionsweise Timer"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Step7 (Basic 2)"
         },
         {
@@ -1011,7 +1011,7 @@
           "text": "Baugruppen austauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Step7 (Fortgeschritten1 - Datenbausteine)"
         },
         {
@@ -1032,7 +1032,7 @@
       "sheet": "2.3_SPS-Rockwell",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Rockwell Software"
         },
         {
@@ -1072,7 +1072,7 @@
           "text": "Analogmodule parametrieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Rockwell Hardware"
         },
         {
@@ -1105,7 +1105,7 @@
       "sheet": "2.4_SPS-Rockwell",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Rockwell Software"
         },
         {
@@ -1137,7 +1137,7 @@
           "text": "Devicenetscanner"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Rockwell Hardware"
         },
         {
@@ -1154,7 +1154,7 @@
       "sheet": "3.1_HMI-Proface",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Proface - \"alt\""
         },
         {
@@ -1182,7 +1182,7 @@
           "text": "Bildschirm neu erstellen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Proface - GP Pro EX"
         },
         {
@@ -1203,7 +1203,7 @@
       "sheet": "3.2_HMI-Omron",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Omron-NTXS"
         },
         {
@@ -1232,7 +1232,7 @@
       "sheet": "3.3_HMI-Siemens",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "WinCC flexible"
         },
         {
@@ -1277,7 +1277,7 @@
       "sheet": "5.1 Grundlagen Denso",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Koordinatensysteme"
         },
         {
@@ -1285,7 +1285,7 @@
           "text": "Base/Work/Tool"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Robotertypen"
         },
         {
@@ -1305,7 +1305,7 @@
           "text": "Air Balance"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Bedienpanel"
         },
         {
@@ -1317,7 +1317,7 @@
           "text": "\"Totmannschalter\""
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Roboter per Hand Verfahren"
         },
         {
@@ -1337,7 +1337,7 @@
           "text": "Programm von Hand abfahren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Teachen"
         },
         {
@@ -1361,7 +1361,7 @@
           "text": "Programme von Hand abfahren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "TPM"
         },
         {
@@ -1390,7 +1390,7 @@
       "sheet": "5.2 DENSO Controller",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Datensicherung"
         },
         {
@@ -1406,7 +1406,7 @@
           "text": "Projekt auf Controller schreiben"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Aufbau Controller"
         },
         {
@@ -1418,7 +1418,7 @@
           "text": "verbaute Komponenten (Achssteuerkarte, Spannungsversorgung, …)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Austausch Controller"
         },
         {
@@ -1438,7 +1438,7 @@
           "text": "Achssteuerkarten tauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Parametereinstellungen"
         },
         {
@@ -1454,7 +1454,7 @@
           "text": "Koordinatenverschiebung einrichten (Work, Tool)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Programmierung"
         },
         {
@@ -1490,7 +1490,7 @@
           "text": "komplett neue Programme schreiben/ Programmstrukturen anpassen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Umrüstung auf neueres System (Abkündigung)"
         },
         {
@@ -1515,7 +1515,7 @@
       "sheet": "5.3 DENSO Roboterarm",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Roboterarm tauschen"
         },
         {
@@ -1535,7 +1535,7 @@
           "text": "Rangedaten im Controller eintragen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Roboterarm allgemein"
         },
         {
@@ -1555,7 +1555,7 @@
           "text": "Sicherungsplatine ( Wo verbaut? / Welche Funktion?)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Roboterarm Reparatur"
         },
         {
@@ -1584,7 +1584,7 @@
       "sheet": "6.1 Grundlagen IAI",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "IAI-Achsen (Aufbau)"
         },
         {
@@ -1596,7 +1596,7 @@
           "text": "Schubstangenachsen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "IAI-Controller (Typen)"
         },
         {
@@ -1608,7 +1608,7 @@
           "text": "Programmsteuerung (XSEL)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "TPM"
         },
         {
@@ -1633,7 +1633,7 @@
       "sheet": "6.2 IAI - Controller",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "PCON/SCON"
         },
         {
@@ -1669,7 +1669,7 @@
           "text": "Controller austauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "X-Sel"
         },
         {
@@ -1714,7 +1714,7 @@
       "sheet": "6.3 IAI - Achsen",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Aufbau der Achssysteme"
         },
         {
@@ -1734,7 +1734,7 @@
           "text": "Antriebsvarianten (Kugelrollspindel/Zahnriemen)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Reparaturen"
         },
         {
@@ -1755,7 +1755,7 @@
       "sheet": "11.2 TOYOSK - Achsen",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Kugelrollspindel tauschen X/Z"
         },
         {
@@ -1775,7 +1775,7 @@
           "text": "Kugelrollspindel montieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Kugelrollspindel tauschen Y"
         },
         {
@@ -1787,7 +1787,7 @@
           "text": "Schmierleitungen montieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LM-Guides tauschen X/Z"
         },
         {
@@ -1799,11 +1799,11 @@
           "text": "LM-Guides montieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LM-Guides tauschen Y"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Nikkentisch CNC401"
         },
         {
@@ -1811,11 +1811,11 @@
           "text": "Nikkentisch tauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Nikkentisch CNC180"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Messungen"
         },
         {
@@ -1836,7 +1836,7 @@
       "sheet": "11.3_TOYOSK - Einrichten",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Maschinennullpunkt setzen"
         },
         {
@@ -1860,7 +1860,7 @@
           "text": "Nullpunkt setzen Z (NC5-Spindel)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Einrichten nach 3D-Protokoll"
         },
         {
@@ -1897,7 +1897,7 @@
       "sheet": "11.4_TOYOSK_Werkzeugwechsel",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Werkzeugwechsel einstellen"
         },
         {
@@ -1913,7 +1913,7 @@
           "text": "ATC - Position einstellen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "ATC Cam Box"
         },
         {
@@ -1941,7 +1941,7 @@
           "text": "Ausrichtung Cam Box"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "ATC Cam Box überholen"
         },
         {
@@ -1953,7 +1953,7 @@
           "text": "Spiel Cam Box einstellen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Handbedienung"
         },
         {
@@ -1978,7 +1978,7 @@
       "sheet": "11.5_TOYOSK_WZ-Spindel",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Messungen"
         },
         {
@@ -1994,7 +1994,7 @@
           "text": "Messung Spindelunwucht (Bruel & Kjaer)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Austausch Toyosk-Werkzeugspindel"
         },
         {
@@ -2010,7 +2010,7 @@
           "text": "Spindel auswuchten (sind schon gewuchtet)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Austausch Spindelmotor"
         },
         {
@@ -2031,7 +2031,7 @@
       "sheet": "11.6 TOYOSK - Steuerung",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "CNC Steuerung"
         },
         {
@@ -2043,7 +2043,7 @@
           "text": "FROM Backup"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "FANUC PMC"
         },
         {
@@ -2079,7 +2079,7 @@
           "text": "FROM schreiben"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "NC-Programme"
         },
         {
@@ -2103,7 +2103,7 @@
           "text": "NC-Programme schreiben"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Reparatur"
         },
         {
@@ -2128,11 +2128,11 @@
       "sheet": "12.1 Grundlagen IZUMI Grinding",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Tasten und Regler an der Steuerung erklären (Bedienung)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Maschinenaufbau erklären"
         },
         {
@@ -2160,7 +2160,7 @@
           "text": "Spindelaufbau"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Bildschirme erklären (zeigen + kurze Erklärung)"
         },
         {
@@ -2180,7 +2180,7 @@
           "text": "PMC (Ladder/KeepRelais/...)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Schaltschrank (Bauteile erklären)"
         },
         {
@@ -2188,7 +2188,7 @@
           "text": "Achsensteuerung  (Hauptschrank)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Arbeiten mit Dokumentation"
         },
         {
@@ -2200,7 +2200,7 @@
           "text": "Fehlersuche im Fanuc-Manual über Fehlernumer"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Ausrichten Maschine"
         },
         {
@@ -2208,7 +2208,7 @@
           "text": "Maschine mittels Maschinenwasserwaage ausrichten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "TPM Jobs"
         },
         {
@@ -2253,7 +2253,7 @@
       "sheet": "12.2 IZUMI Grinding- Achsen",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Kugelrollspindel tauschen X/Z"
         },
         {
@@ -2273,7 +2273,7 @@
           "text": "Kugelrollspindel montieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Kugelrollspindel tauschen Y"
         },
         {
@@ -2285,7 +2285,7 @@
           "text": "Schmierleitungen montieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LM-Guides tauschen X/Z"
         },
         {
@@ -2297,11 +2297,11 @@
           "text": "LM-Guides montieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "LM-Guides tauschen Y"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Nikkentisch CNCZ503"
         },
         {
@@ -2309,7 +2309,7 @@
           "text": "Nikkentisch tauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Messungen"
         },
         {
@@ -2330,7 +2330,7 @@
       "sheet": "12.3 IZUMI Grinding- Einrichten",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Maschinennullpunkt setzen"
         },
         {
@@ -2346,7 +2346,7 @@
           "text": "Nullpunkt setzen X+Y+Z"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Jigklemmung"
         },
         {
@@ -2358,7 +2358,7 @@
           "text": "Einstellen der Jigklemmung mit Master"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Einrichten nach 3D-Protokoll"
         },
         {
@@ -2399,7 +2399,7 @@
       "sheet": "12.4 IZUMI Grinding_WZ-Spindel",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Messungen"
         },
         {
@@ -2415,7 +2415,7 @@
           "text": "Messung Spindelunwucht (Bruel & Kjaer)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Austausch Werkzeugspindel"
         },
         {
@@ -2431,7 +2431,7 @@
           "text": "Spindel auswuchten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Austausch Spindelmotor"
         },
         {
@@ -2439,7 +2439,7 @@
           "text": "Montage/ Demontage Spindelmotor"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Antriebseinheit (Riemenantrieb)"
         },
         {
@@ -2451,7 +2451,7 @@
           "text": "Spanneinheit überholen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Schmierung"
         },
         {
@@ -2472,7 +2472,7 @@
       "sheet": "12.5 IZUMI Grinding- Steuerung",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "CNC Steuerung"
         },
         {
@@ -2484,7 +2484,7 @@
           "text": "FROM Backup"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "FANUC PMC"
         },
         {
@@ -2520,7 +2520,7 @@
           "text": "FROM schreiben"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "NC-Programme"
         },
         {
@@ -2544,7 +2544,7 @@
           "text": "NC-Programme schreiben"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Reparatur"
         },
         {
@@ -2569,7 +2569,7 @@
       "sheet": "14.1 Accretech-Messsysteme",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Tool RunOut Controller"
         },
         {
@@ -2613,7 +2613,7 @@
           "text": "Messwerte beurteilen (Was kann sein?)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Pulcom Controller"
         },
         {
@@ -2686,7 +2686,7 @@
       "sheet": "15.1 Grundlagen Shotblast",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Allgemein"
         },
         {
@@ -2698,7 +2698,7 @@
           "text": "\"Ex-Bereich\" (nur Strahlkammer in Betrieb oder bei Staubaufwirbelung)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Schleuderräder (Impeller)"
         },
         {
@@ -2734,7 +2734,7 @@
           "text": "Verschleißbewertung"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "\"Rundtisch\""
         },
         {
@@ -2750,7 +2750,7 @@
           "text": "Justierung Stopposition"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Strahlkammer"
         },
         {
@@ -2758,7 +2758,7 @@
           "text": "Austausch Verschleißteile"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Strahlmitteltransport"
         },
         {
@@ -2778,7 +2778,7 @@
           "text": "Funktionsweise \"Windsichtung\""
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Absaugung"
         },
         {
@@ -2802,11 +2802,11 @@
           "text": "Unterdrucküberwachung"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Austausch komplette Strahlanlage (Retrofit)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "TPM"
         },
         {
@@ -2888,7 +2888,7 @@
       "sheet": "16.2 Yamaha - Steuerung",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "1-Achssystem"
         },
         {
@@ -2924,15 +2924,15 @@
           "text": "Umbau auf neuen Controller (Abkündigung)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "2-Achssystem"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Mehrachssystem"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Allgemein"
         },
         {
@@ -2953,7 +2953,7 @@
       "sheet": "17.1 AGV Meidensha",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Allgemeines"
         },
         {
@@ -2973,7 +2973,7 @@
           "text": "Wo ist was verbaut am Fahrzeug?"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Bedienung"
         },
         {
@@ -2989,7 +2989,7 @@
           "text": "Routen eingeben"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Antrieb"
         },
         {
@@ -3009,7 +3009,7 @@
           "text": "Lenkwinkelpotentiometer einstellen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Steuerung"
         },
         {
@@ -3037,7 +3037,7 @@
           "text": "Einstellung Radarsensor"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sonstiges"
         },
         {
@@ -3049,7 +3049,7 @@
           "text": "Softbumper aufarbeiten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "TPM"
         },
         {
@@ -3082,7 +3082,7 @@
       "sheet": "18.1 FTF MLR",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Allgemeines"
         },
         {
@@ -3098,7 +3098,7 @@
           "text": "Wie funktioniert die Navigation"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Bedienung"
         },
         {
@@ -3122,47 +3122,47 @@
           "text": "Fahrzeug \"Aufsetzen\""
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Komponenten (Wo verbaut?, Welche Funktion?)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fahr/Lenkantrieb"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sick Personenschutzscanner"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Inverter"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "mBox"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "mBoxGO"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "mBoxIO"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sick Sicherheits SPS"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Gyro Sensor"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Messräder (Hinterräder = Navigation ; Antriebsrad = Feldumschaltung Sicherheitsscanner)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "WLAN Bridge"
         },
         {
@@ -3186,7 +3186,7 @@
           "text": "Scannerfelder (unterschiedliche Geschwindigkeiten; Welcher Sensor für Umschaltung verwendet?)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fahr-/Lenkantrieb"
         },
         {
@@ -3206,7 +3206,7 @@
           "text": "Bremse überprüfen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Inverter (Fahrantrieb, Lenkantrieb, Bandantrieb)"
         },
         {
@@ -3238,7 +3238,7 @@
           "text": "mBox austauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sick-Sicherheits SPS"
         },
         {
@@ -3254,7 +3254,7 @@
           "text": "Eingangssignale beobachten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Ladegeräte"
         },
         {
@@ -3279,7 +3279,7 @@
       "sheet": "18.2 FTF MLR",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Fahrzeuge abgleichen"
         },
         {
@@ -3307,7 +3307,7 @@
           "text": "Abgleich Encoder Antriebsrad"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "TPM"
         },
         {
@@ -3332,7 +3332,7 @@
       "sheet": "19.1 FTF Bleichert",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Allgemeines"
         },
         {
@@ -3348,7 +3348,7 @@
           "text": "Wie funktioniert die Navigation"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Bedienung"
         },
         {
@@ -3372,43 +3372,43 @@
           "text": "Handbedienung/ Diagnose Rollenantrieb"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Komponenten (Wo verbaut?, Welche Funktion?)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fahr/Lenkantriebe"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Leuze Personenschutzscanner"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Sick Objekterkennungssensor"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Siemens SPS"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "IPC (Industrie PC)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Inverter für Antriebe"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Verschiebeeinheit Rollenbahn"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Antriebsrollencontroller"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "WLAN Modul"
         },
         {
@@ -3444,7 +3444,7 @@
           "text": "Datensicherung erstellen/ aufspielen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fahr-/Lenkantrieb"
         },
         {
@@ -3464,7 +3464,7 @@
           "text": "Bremse überprüfen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Inverter (Fahrantriebe, Lenkantriebe)"
         },
         {
@@ -3476,7 +3476,7 @@
           "text": "Inverter tauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "IPC"
         },
         {
@@ -3517,7 +3517,7 @@
       "sheet": "19.2 FTF Bleichert",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Antriebsrollencontroller"
         },
         {
@@ -3529,7 +3529,7 @@
           "text": "Parametrierung Controller"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "WLAN-Modul"
         },
         {
@@ -3541,7 +3541,7 @@
           "text": "Kontrolle Signalqualität"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fahrzeuge abgleichen"
         },
         {
@@ -3561,11 +3561,11 @@
           "text": "Geschwindigkeitsabgleich"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "TPM"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Leitrechner"
         }
       ]
@@ -3578,7 +3578,7 @@
       "sheet": "20.1 Predictive",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Renishaw - Kreisformtest"
         },
         {
@@ -3606,7 +3606,7 @@
           "text": "Messungen an neuen Maschinen einrichten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Spindel-Einzugskraftmessung (OTT-Jakob)"
         },
         {
@@ -3614,7 +3614,7 @@
           "text": "Messung protokollieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "SKF Quick Collect (Schwingungsmessung)"
         },
         {
@@ -3622,7 +3622,7 @@
           "text": "Messergebnisse bewerten/ Grenzen setzen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Vibroport 80 Schwingungsmessung"
         },
         {
@@ -3642,7 +3642,7 @@
           "text": "individuelle Schwingungsmessungen durchführen (Fehlersuche)"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "IBS Precision Spindle Check Analyzer"
         },
         {
@@ -3654,7 +3654,7 @@
           "text": "Messergebnisse bewerten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "CANBus View XL"
         },
         {
@@ -3666,7 +3666,7 @@
           "text": "Maßnahmen aus Messergebnissen ableiten"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Fanuc Servo Guide"
         },
         {
@@ -3686,7 +3686,7 @@
           "text": "Auswertungsstandards definieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Wärmebildkamera (FLIR)"
         },
         {
@@ -3707,7 +3707,7 @@
       "sheet": "21.1 Kamerasysteme Omron",
       "items": [
         {
-          "type": "header",
+          "type": "task",
           "text": "Bedienung Kamerasystem"
         },
         {
@@ -3731,7 +3731,7 @@
           "text": "Datensicherung aufspielen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Anpassung Kamerasystem"
         },
         {
@@ -3755,7 +3755,7 @@
           "text": "neue Werkstücke implementieren"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Beleuchtung"
         },
         {
@@ -3767,7 +3767,7 @@
           "text": "Beleuchtungsintensität anpassen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Hardware"
         },
         {
@@ -3787,7 +3787,7 @@
           "text": "Beleuchtungscontroller tauschen"
         },
         {
-          "type": "header",
+          "type": "task",
           "text": "Schnittstelle Kamera/RB prüfen"
         },
         {
