@@ -1,0 +1,61 @@
+:root {
+  --primary: #2563eb;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+.site-header {
+  background: var(--primary);
+  color: #fff;
+  padding: 10px 16px;
+}
+
+.nav {
+  display: flex;
+  gap: 12px;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 16px;
+}
+
+.chapter-list {
+  list-style: none;
+  padding: 0;
+}
+
+.chapter-list li {
+  background: #fff;
+  margin-bottom: 8px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 300px;
+}
+
+.btn {
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}

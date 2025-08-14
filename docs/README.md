@@ -1,0 +1,3 @@
+# Dokumentation
+
+Platzhalter für Projektdokumentation.
