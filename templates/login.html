@@ -2,9 +2,28 @@
 <html lang="de">
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Login</title>
+  <link rel="stylesheet" href="../static/css/style.css" />
 </head>
 <body>
-  <!-- Platzhalter für die Login-Seite -->
+  <header class="site-header">
+    <nav class="nav">
+      <a href="index.html" class="nav-link">Start</a>
+      <a href="login.html" class="nav-link">Login</a>
+      <a href="dashboard.html" class="nav-link">Dashboard</a>
+    </nav>
+  </header>
+  <main class="container">
+    <h1>Anmelden</h1>
+    <form id="loginForm" class="form">
+      <label for="user">Benutzername</label>
+      <input id="user" type="text" required />
+      <label for="pass">Passwort</label>
+      <input id="pass" type="password" required />
+      <button type="submit" class="btn">Login</button>
+    </form>
+  </main>
+  <script src="../static/js/app.js"></script>
 </body>
 </html>
